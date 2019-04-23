@@ -1,0 +1,1154 @@
+2019-04-23 03:29:38 INFO  Prop:169 - File properties:file:///C:/Users/maria/.mtfx/prop.xml
+2019-04-23 03:29:38 INFO  Prop:120 - Application directory->C:\Users\maria\Coding\gradle\mmtfx
+2019-04-23 03:29:38 INFO  Prop:121 - JAVA Version->11.0.2+9
+2019-04-23 03:29:38 INFO  Prop:122 - mtfx Version(*Manifest)->null
+2019-04-23 03:29:38 INFO  Prop:136 - C:\Users\maria\.mtfx exists or Conf$$ not found, skip files copy.
+2019-04-23 03:29:38 INFO  Prop:150 - Properties file correctly read.
+2019-04-23 03:29:38 INFO  Prop:153 - Properties initialized, now list them:
+2019-04-23 03:29:38 INFO  Prop:158 - ACCELERATORE_MIN=65534
+2019-04-23 03:29:38 INFO  Prop:158 - ACCELERATORE_MAX=0
+2019-04-23 03:29:38 INFO  Prop:158 - FRENO_POSTERIORE_MIN=65534
+2019-04-23 03:29:38 INFO  Prop:158 - FRENO_POSTERIORE_MAX=0
+2019-04-23 03:29:38 INFO  Prop:158 - FRENO_ANTERIORE_MIN=65534
+2019-04-23 03:29:38 INFO  Prop:158 - FRENO_ANTERIORE_MAX=0
+2019-04-23 03:29:38 INFO  Prop:158 - PASSWORD_ADMIN=****
+2019-04-23 03:29:38 INFO  Prop:158 - NUMERO_SCHERMO=0
+2019-04-23 03:29:38 ERROR StageManager:51 - 
+javafx.fxml.LoadException: Invalid resource: /styles/fxmlsetup.css not found on the classpath
+/C:/Users/maria/Coding/gradle/mmtfx/build/resources/main/fxml/FXMLSetup.fxml:36
+
+	at javafx.fxml/javafx.fxml.FXMLLoader.constructLoadException(FXMLLoader.java:2621)
+	at javafx.fxml/javafx.fxml.FXMLLoader.access$100(FXMLLoader.java:105)
+	at javafx.fxml/javafx.fxml.FXMLLoader$Element.resolvePrefixedValue(FXMLLoader.java:406)
+	at javafx.fxml/javafx.fxml.FXMLLoader$Element.processValue(FXMLLoader.java:370)
+	at javafx.fxml/javafx.fxml.FXMLLoader$Element.processPropertyAttribute(FXMLLoader.java:332)
+	at javafx.fxml/javafx.fxml.FXMLLoader$Element.processInstancePropertyAttributes(FXMLLoader.java:242)
+	at javafx.fxml/javafx.fxml.FXMLLoader$ValueElement.processStartElement(FXMLLoader.java:757)
+	at javafx.fxml/javafx.fxml.FXMLLoader.processStartElement(FXMLLoader.java:2722)
+	at javafx.fxml/javafx.fxml.FXMLLoader.loadImpl(FXMLLoader.java:2552)
+	at javafx.fxml/javafx.fxml.FXMLLoader.loadImpl(FXMLLoader.java:2466)
+	at javafx.fxml/javafx.fxml.FXMLLoader.load(FXMLLoader.java:2435)
+	at mmtfx.main/it.ma.mototrainerp.StageManager.init(StageManager.java:49)
+	at mmtfx.main/it.ma.mototrainerp.Mototrainer.start(Mototrainer.java:33)
+	at javafx.graphics/com.sun.javafx.application.LauncherImpl.lambda$launchApplication1$9(LauncherImpl.java:846)
+	at javafx.graphics/com.sun.javafx.application.PlatformImpl.lambda$runAndWait$12(PlatformImpl.java:455)
+	at javafx.graphics/com.sun.javafx.application.PlatformImpl.lambda$runLater$10(PlatformImpl.java:428)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at javafx.graphics/com.sun.javafx.application.PlatformImpl.lambda$runLater$11(PlatformImpl.java:427)
+	at javafx.graphics/com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:96)
+	at javafx.graphics/com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at javafx.graphics/com.sun.glass.ui.win.WinApplication.lambda$runLoop$3(WinApplication.java:174)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2019-04-23 03:49:07 INFO  Prop:169 - File properties:file:///C:/Users/maria/.mtfx/prop.xml
+2019-04-23 03:49:07 INFO  Prop:120 - Application directory->C:\Users\maria\Coding\gradle\mmtfx
+2019-04-23 03:49:07 INFO  Prop:121 - JAVA Version->11.0.2+9
+2019-04-23 03:49:07 INFO  Prop:122 - mtfx Version(*Manifest)->null
+2019-04-23 03:49:07 INFO  Prop:136 - C:\Users\maria\.mtfx exists or Conf$$ not found, skip files copy.
+2019-04-23 03:49:07 INFO  Prop:150 - Properties file correctly read.
+2019-04-23 03:49:07 INFO  Prop:153 - Properties initialized, now list them:
+2019-04-23 03:49:07 INFO  Prop:158 - ACCELERATORE_MIN=65534
+2019-04-23 03:49:07 INFO  Prop:158 - ACCELERATORE_MAX=0
+2019-04-23 03:49:07 INFO  Prop:158 - FRENO_POSTERIORE_MIN=65534
+2019-04-23 03:49:07 INFO  Prop:158 - FRENO_POSTERIORE_MAX=0
+2019-04-23 03:49:07 INFO  Prop:158 - FRENO_ANTERIORE_MIN=65534
+2019-04-23 03:49:07 INFO  Prop:158 - FRENO_ANTERIORE_MAX=0
+2019-04-23 03:49:07 INFO  Prop:158 - PASSWORD_ADMIN=****
+2019-04-23 03:49:07 INFO  Prop:158 - NUMERO_SCHERMO=0
+2019-04-23 03:49:07 ERROR StageManager:51 - 
+javafx.fxml.LoadException: Invalid resource: /styles/fxmlsetup.css not found on the classpath
+/C:/Users/maria/Coding/gradle/mmtfx/build/resources/main/fxml/FXMLSetup.fxml:36
+
+	at javafx.fxml/javafx.fxml.FXMLLoader.constructLoadException(FXMLLoader.java:2621)
+	at javafx.fxml/javafx.fxml.FXMLLoader.access$100(FXMLLoader.java:105)
+	at javafx.fxml/javafx.fxml.FXMLLoader$Element.resolvePrefixedValue(FXMLLoader.java:406)
+	at javafx.fxml/javafx.fxml.FXMLLoader$Element.processValue(FXMLLoader.java:370)
+	at javafx.fxml/javafx.fxml.FXMLLoader$Element.processPropertyAttribute(FXMLLoader.java:332)
+	at javafx.fxml/javafx.fxml.FXMLLoader$Element.processInstancePropertyAttributes(FXMLLoader.java:242)
+	at javafx.fxml/javafx.fxml.FXMLLoader$ValueElement.processStartElement(FXMLLoader.java:757)
+	at javafx.fxml/javafx.fxml.FXMLLoader.processStartElement(FXMLLoader.java:2722)
+	at javafx.fxml/javafx.fxml.FXMLLoader.loadImpl(FXMLLoader.java:2552)
+	at javafx.fxml/javafx.fxml.FXMLLoader.loadImpl(FXMLLoader.java:2466)
+	at javafx.fxml/javafx.fxml.FXMLLoader.load(FXMLLoader.java:2435)
+	at mmtfx.main/it.ma.mototrainerp.StageManager.init(StageManager.java:49)
+	at mmtfx.main/it.ma.mototrainerp.Mototrainer.start(Mototrainer.java:33)
+	at javafx.graphics/com.sun.javafx.application.LauncherImpl.lambda$launchApplication1$9(LauncherImpl.java:846)
+	at javafx.graphics/com.sun.javafx.application.PlatformImpl.lambda$runAndWait$12(PlatformImpl.java:455)
+	at javafx.graphics/com.sun.javafx.application.PlatformImpl.lambda$runLater$10(PlatformImpl.java:428)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at javafx.graphics/com.sun.javafx.application.PlatformImpl.lambda$runLater$11(PlatformImpl.java:427)
+	at javafx.graphics/com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:96)
+	at javafx.graphics/com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at javafx.graphics/com.sun.glass.ui.win.WinApplication.lambda$runLoop$3(WinApplication.java:174)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2019-04-23 03:50:50 INFO  Prop:169 - File properties:file:///C:/Users/maria/.mtfx/prop.xml
+2019-04-23 03:50:50 INFO  Prop:120 - Application directory->C:\Users\maria\Coding\gradle\mmtfx
+2019-04-23 03:50:50 INFO  Prop:121 - JAVA Version->11.0.2+9
+2019-04-23 03:50:50 INFO  Prop:122 - mtfx Version(*Manifest)->null
+2019-04-23 03:50:50 INFO  Prop:136 - C:\Users\maria\.mtfx exists or Conf$$ not found, skip files copy.
+2019-04-23 03:50:50 INFO  Prop:150 - Properties file correctly read.
+2019-04-23 03:50:50 INFO  Prop:153 - Properties initialized, now list them:
+2019-04-23 03:50:50 INFO  Prop:158 - ACCELERATORE_MIN=65534
+2019-04-23 03:50:50 INFO  Prop:158 - ACCELERATORE_MAX=0
+2019-04-23 03:50:50 INFO  Prop:158 - FRENO_POSTERIORE_MIN=65534
+2019-04-23 03:50:50 INFO  Prop:158 - FRENO_POSTERIORE_MAX=0
+2019-04-23 03:50:50 INFO  Prop:158 - FRENO_ANTERIORE_MIN=65534
+2019-04-23 03:50:50 INFO  Prop:158 - FRENO_ANTERIORE_MAX=0
+2019-04-23 03:50:50 INFO  Prop:158 - PASSWORD_ADMIN=****
+2019-04-23 03:50:50 INFO  Prop:158 - NUMERO_SCHERMO=0
+2019-04-23 03:50:50 ERROR StageManager:51 - 
+javafx.fxml.LoadException: Invalid resource: /styles/fxmlsetup.css not found on the classpath
+/C:/Users/maria/Coding/gradle/mmtfx/build/resources/main/fxml/FXMLSetup.fxml:36
+
+	at javafx.fxml/javafx.fxml.FXMLLoader.constructLoadException(FXMLLoader.java:2621)
+	at javafx.fxml/javafx.fxml.FXMLLoader.access$100(FXMLLoader.java:105)
+	at javafx.fxml/javafx.fxml.FXMLLoader$Element.resolvePrefixedValue(FXMLLoader.java:406)
+	at javafx.fxml/javafx.fxml.FXMLLoader$Element.processValue(FXMLLoader.java:370)
+	at javafx.fxml/javafx.fxml.FXMLLoader$Element.processPropertyAttribute(FXMLLoader.java:332)
+	at javafx.fxml/javafx.fxml.FXMLLoader$Element.processInstancePropertyAttributes(FXMLLoader.java:242)
+	at javafx.fxml/javafx.fxml.FXMLLoader$ValueElement.processStartElement(FXMLLoader.java:757)
+	at javafx.fxml/javafx.fxml.FXMLLoader.processStartElement(FXMLLoader.java:2722)
+	at javafx.fxml/javafx.fxml.FXMLLoader.loadImpl(FXMLLoader.java:2552)
+	at javafx.fxml/javafx.fxml.FXMLLoader.loadImpl(FXMLLoader.java:2466)
+	at javafx.fxml/javafx.fxml.FXMLLoader.load(FXMLLoader.java:2435)
+	at mmtfx.main/it.ma.mototrainerp.StageManager.init(StageManager.java:49)
+	at mmtfx.main/it.ma.mototrainerp.Mototrainer.start(Mototrainer.java:33)
+	at javafx.graphics/com.sun.javafx.application.LauncherImpl.lambda$launchApplication1$9(LauncherImpl.java:846)
+	at javafx.graphics/com.sun.javafx.application.PlatformImpl.lambda$runAndWait$12(PlatformImpl.java:455)
+	at javafx.graphics/com.sun.javafx.application.PlatformImpl.lambda$runLater$10(PlatformImpl.java:428)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at javafx.graphics/com.sun.javafx.application.PlatformImpl.lambda$runLater$11(PlatformImpl.java:427)
+	at javafx.graphics/com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:96)
+	at javafx.graphics/com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at javafx.graphics/com.sun.glass.ui.win.WinApplication.lambda$runLoop$3(WinApplication.java:174)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2019-04-23 04:06:05 INFO  Prop:169 - File properties:file:///C:/Users/maria/.mtfx/prop.xml
+2019-04-23 04:06:05 INFO  Prop:120 - Application directory->C:\Users\maria\Coding\gradle\mmtfx
+2019-04-23 04:06:05 INFO  Prop:121 - JAVA Version->11.0.2+9
+2019-04-23 04:06:05 INFO  Prop:122 - mtfx Version(*Manifest)->null
+2019-04-23 04:06:05 INFO  Prop:136 - C:\Users\maria\.mtfx exists or Conf$$ not found, skip files copy.
+2019-04-23 04:06:05 INFO  Prop:150 - Properties file correctly read.
+2019-04-23 04:06:05 INFO  Prop:153 - Properties initialized, now list them:
+2019-04-23 04:06:05 INFO  Prop:158 - ACCELERATORE_MIN=65534
+2019-04-23 04:06:05 INFO  Prop:158 - ACCELERATORE_MAX=0
+2019-04-23 04:06:05 INFO  Prop:158 - FRENO_POSTERIORE_MIN=65534
+2019-04-23 04:06:05 INFO  Prop:158 - FRENO_POSTERIORE_MAX=0
+2019-04-23 04:06:05 INFO  Prop:158 - FRENO_ANTERIORE_MIN=65534
+2019-04-23 04:06:05 INFO  Prop:158 - FRENO_ANTERIORE_MAX=0
+2019-04-23 04:06:05 INFO  Prop:158 - PASSWORD_ADMIN=****
+2019-04-23 04:06:05 INFO  Prop:158 - NUMERO_SCHERMO=0
+2019-04-23 04:06:05 ERROR StageManager:51 - 
+javafx.fxml.LoadException: Invalid resource: /styles/fxmlsetup.css not found on the classpath
+/C:/Users/maria/Coding/gradle/mmtfx/build/resources/main/fxml/FXMLSetup.fxml:36
+
+	at javafx.fxml/javafx.fxml.FXMLLoader.constructLoadException(FXMLLoader.java:2621)
+	at javafx.fxml/javafx.fxml.FXMLLoader.access$100(FXMLLoader.java:105)
+	at javafx.fxml/javafx.fxml.FXMLLoader$Element.resolvePrefixedValue(FXMLLoader.java:406)
+	at javafx.fxml/javafx.fxml.FXMLLoader$Element.processValue(FXMLLoader.java:370)
+	at javafx.fxml/javafx.fxml.FXMLLoader$Element.processPropertyAttribute(FXMLLoader.java:332)
+	at javafx.fxml/javafx.fxml.FXMLLoader$Element.processInstancePropertyAttributes(FXMLLoader.java:242)
+	at javafx.fxml/javafx.fxml.FXMLLoader$ValueElement.processStartElement(FXMLLoader.java:757)
+	at javafx.fxml/javafx.fxml.FXMLLoader.processStartElement(FXMLLoader.java:2722)
+	at javafx.fxml/javafx.fxml.FXMLLoader.loadImpl(FXMLLoader.java:2552)
+	at javafx.fxml/javafx.fxml.FXMLLoader.loadImpl(FXMLLoader.java:2466)
+	at javafx.fxml/javafx.fxml.FXMLLoader.load(FXMLLoader.java:2435)
+	at mmtfx.main/it.ma.mototrainerp.StageManager.init(StageManager.java:49)
+	at mmtfx.main/it.ma.mototrainerp.Mototrainer.start(Mototrainer.java:33)
+	at javafx.graphics/com.sun.javafx.application.LauncherImpl.lambda$launchApplication1$9(LauncherImpl.java:846)
+	at javafx.graphics/com.sun.javafx.application.PlatformImpl.lambda$runAndWait$12(PlatformImpl.java:455)
+	at javafx.graphics/com.sun.javafx.application.PlatformImpl.lambda$runLater$10(PlatformImpl.java:428)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at javafx.graphics/com.sun.javafx.application.PlatformImpl.lambda$runLater$11(PlatformImpl.java:427)
+	at javafx.graphics/com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:96)
+	at javafx.graphics/com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at javafx.graphics/com.sun.glass.ui.win.WinApplication.lambda$runLoop$3(WinApplication.java:174)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2019-04-23 04:08:19 INFO  Prop:169 - File properties:file:///C:/Users/maria/.mtfx/prop.xml
+2019-04-23 04:08:19 INFO  Prop:120 - Application directory->C:\Users\maria\Coding\gradle\mmtfx
+2019-04-23 04:08:19 INFO  Prop:121 - JAVA Version->11.0.2+9
+2019-04-23 04:08:19 INFO  Prop:122 - mtfx Version(*Manifest)->null
+2019-04-23 04:08:19 INFO  Prop:136 - C:\Users\maria\.mtfx exists or Conf$$ not found, skip files copy.
+2019-04-23 04:08:19 INFO  Prop:150 - Properties file correctly read.
+2019-04-23 04:08:19 INFO  Prop:153 - Properties initialized, now list them:
+2019-04-23 04:08:19 INFO  Prop:158 - ACCELERATORE_MIN=65534
+2019-04-23 04:08:19 INFO  Prop:158 - ACCELERATORE_MAX=0
+2019-04-23 04:08:19 INFO  Prop:158 - FRENO_POSTERIORE_MIN=65534
+2019-04-23 04:08:19 INFO  Prop:158 - FRENO_POSTERIORE_MAX=0
+2019-04-23 04:08:19 INFO  Prop:158 - FRENO_ANTERIORE_MIN=65534
+2019-04-23 04:08:19 INFO  Prop:158 - FRENO_ANTERIORE_MAX=0
+2019-04-23 04:08:19 INFO  Prop:158 - PASSWORD_ADMIN=****
+2019-04-23 04:08:19 INFO  Prop:158 - NUMERO_SCHERMO=0
+2019-04-23 04:08:20 ERROR StageManager:51 - 
+javafx.fxml.LoadException: Invalid resource: /styles/fxmlsetup.css not found on the classpath
+/C:/Users/maria/Coding/gradle/mmtfx/build/resources/main/fxml/FXMLSetup.fxml:36
+
+	at javafx.fxml/javafx.fxml.FXMLLoader.constructLoadException(FXMLLoader.java:2621)
+	at javafx.fxml/javafx.fxml.FXMLLoader.access$100(FXMLLoader.java:105)
+	at javafx.fxml/javafx.fxml.FXMLLoader$Element.resolvePrefixedValue(FXMLLoader.java:406)
+	at javafx.fxml/javafx.fxml.FXMLLoader$Element.processValue(FXMLLoader.java:370)
+	at javafx.fxml/javafx.fxml.FXMLLoader$Element.processPropertyAttribute(FXMLLoader.java:332)
+	at javafx.fxml/javafx.fxml.FXMLLoader$Element.processInstancePropertyAttributes(FXMLLoader.java:242)
+	at javafx.fxml/javafx.fxml.FXMLLoader$ValueElement.processStartElement(FXMLLoader.java:757)
+	at javafx.fxml/javafx.fxml.FXMLLoader.processStartElement(FXMLLoader.java:2722)
+	at javafx.fxml/javafx.fxml.FXMLLoader.loadImpl(FXMLLoader.java:2552)
+	at javafx.fxml/javafx.fxml.FXMLLoader.loadImpl(FXMLLoader.java:2466)
+	at javafx.fxml/javafx.fxml.FXMLLoader.load(FXMLLoader.java:2435)
+	at mmtfx.main/it.ma.mototrainerp.StageManager.init(StageManager.java:49)
+	at mmtfx.main/it.ma.mototrainerp.Mototrainer.start(Mototrainer.java:33)
+	at javafx.graphics/com.sun.javafx.application.LauncherImpl.lambda$launchApplication1$9(LauncherImpl.java:846)
+	at javafx.graphics/com.sun.javafx.application.PlatformImpl.lambda$runAndWait$12(PlatformImpl.java:455)
+	at javafx.graphics/com.sun.javafx.application.PlatformImpl.lambda$runLater$10(PlatformImpl.java:428)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at javafx.graphics/com.sun.javafx.application.PlatformImpl.lambda$runLater$11(PlatformImpl.java:427)
+	at javafx.graphics/com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:96)
+	at javafx.graphics/com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at javafx.graphics/com.sun.glass.ui.win.WinApplication.lambda$runLoop$3(WinApplication.java:174)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2019-04-23 11:48:37 INFO  Prop:169 - File properties:file:///C:/Users/maria/.mtfx/prop.xml
+2019-04-23 11:48:37 INFO  Prop:120 - Application directory->C:\Users\maria\Coding\gradle\mmtfx
+2019-04-23 11:48:37 INFO  Prop:121 - JAVA Version->11.0.2+9
+2019-04-23 11:48:37 INFO  Prop:122 - mtfx Version(*Manifest)->null
+2019-04-23 11:48:37 INFO  Prop:136 - C:\Users\maria\.mtfx exists or Conf$$ not found, skip files copy.
+2019-04-23 11:48:37 INFO  Prop:150 - Properties file correctly read.
+2019-04-23 11:48:37 INFO  Prop:153 - Properties initialized, now list them:
+2019-04-23 11:48:37 INFO  Prop:158 - ACCELERATORE_MIN=65534
+2019-04-23 11:48:37 INFO  Prop:158 - ACCELERATORE_MAX=0
+2019-04-23 11:48:37 INFO  Prop:158 - FRENO_POSTERIORE_MIN=65534
+2019-04-23 11:48:37 INFO  Prop:158 - FRENO_POSTERIORE_MAX=0
+2019-04-23 11:48:37 INFO  Prop:158 - FRENO_ANTERIORE_MIN=65534
+2019-04-23 11:48:37 INFO  Prop:158 - FRENO_ANTERIORE_MAX=0
+2019-04-23 11:48:37 INFO  Prop:158 - PASSWORD_ADMIN=****
+2019-04-23 11:48:37 INFO  Prop:158 - NUMERO_SCHERMO=0
+2019-04-23 11:48:37 ERROR StageManager:51 - 
+javafx.fxml.LoadException: Invalid resource: /styles/fxmlsetup.css not found on the classpath
+/C:/Users/maria/Coding/gradle/mmtfx/build/resources/main/fxml/FXMLSetup.fxml:36
+
+	at javafx.fxml/javafx.fxml.FXMLLoader.constructLoadException(FXMLLoader.java:2621)
+	at javafx.fxml/javafx.fxml.FXMLLoader.access$100(FXMLLoader.java:105)
+	at javafx.fxml/javafx.fxml.FXMLLoader$Element.resolvePrefixedValue(FXMLLoader.java:406)
+	at javafx.fxml/javafx.fxml.FXMLLoader$Element.processValue(FXMLLoader.java:370)
+	at javafx.fxml/javafx.fxml.FXMLLoader$Element.processPropertyAttribute(FXMLLoader.java:332)
+	at javafx.fxml/javafx.fxml.FXMLLoader$Element.processInstancePropertyAttributes(FXMLLoader.java:242)
+	at javafx.fxml/javafx.fxml.FXMLLoader$ValueElement.processStartElement(FXMLLoader.java:757)
+	at javafx.fxml/javafx.fxml.FXMLLoader.processStartElement(FXMLLoader.java:2722)
+	at javafx.fxml/javafx.fxml.FXMLLoader.loadImpl(FXMLLoader.java:2552)
+	at javafx.fxml/javafx.fxml.FXMLLoader.loadImpl(FXMLLoader.java:2466)
+	at javafx.fxml/javafx.fxml.FXMLLoader.load(FXMLLoader.java:2435)
+	at mmtfx.main/it.ma.mototrainerp.StageManager.init(StageManager.java:49)
+	at mmtfx.main/it.ma.mototrainerp.Mototrainer.start(Mototrainer.java:33)
+	at javafx.graphics/com.sun.javafx.application.LauncherImpl.lambda$launchApplication1$9(LauncherImpl.java:846)
+	at javafx.graphics/com.sun.javafx.application.PlatformImpl.lambda$runAndWait$12(PlatformImpl.java:455)
+	at javafx.graphics/com.sun.javafx.application.PlatformImpl.lambda$runLater$10(PlatformImpl.java:428)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at javafx.graphics/com.sun.javafx.application.PlatformImpl.lambda$runLater$11(PlatformImpl.java:427)
+	at javafx.graphics/com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:96)
+	at javafx.graphics/com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at javafx.graphics/com.sun.glass.ui.win.WinApplication.lambda$runLoop$3(WinApplication.java:174)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2019-04-23 12:52:11 INFO  Prop:169 - File properties:file:///C:/Users/maria/.mtfx/prop.xml
+2019-04-23 12:52:11 INFO  Prop:120 - Application directory->C:\Users\maria\Coding\gradle\mmtfx
+2019-04-23 12:52:11 INFO  Prop:121 - JAVA Version->11.0.2+9
+2019-04-23 12:52:11 INFO  Prop:122 - mtfx Version(*Manifest)->null
+2019-04-23 12:52:11 INFO  Prop:136 - C:\Users\maria\.mtfx exists or Conf$$ not found, skip files copy.
+2019-04-23 12:52:11 INFO  Prop:150 - Properties file correctly read.
+2019-04-23 12:52:11 INFO  Prop:153 - Properties initialized, now list them:
+2019-04-23 12:52:11 INFO  Prop:158 - ACCELERATORE_MIN=65534
+2019-04-23 12:52:11 INFO  Prop:158 - ACCELERATORE_MAX=0
+2019-04-23 12:52:11 INFO  Prop:158 - FRENO_POSTERIORE_MIN=65534
+2019-04-23 12:52:11 INFO  Prop:158 - FRENO_POSTERIORE_MAX=0
+2019-04-23 12:52:11 INFO  Prop:158 - FRENO_ANTERIORE_MIN=65534
+2019-04-23 12:52:11 INFO  Prop:158 - FRENO_ANTERIORE_MAX=0
+2019-04-23 12:52:11 INFO  Prop:158 - PASSWORD_ADMIN=****
+2019-04-23 12:52:11 INFO  Prop:158 - NUMERO_SCHERMO=0
+2019-04-23 12:52:12 ERROR StageManager:51 - 
+javafx.fxml.LoadException: Invalid resource: /styles/fxmlsetup.css not found on the classpath
+/C:/Users/maria/Coding/gradle/mmtfx/build/resources/main/fxml/FXMLSetup.fxml:36
+
+	at javafx.fxml/javafx.fxml.FXMLLoader.constructLoadException(FXMLLoader.java:2621)
+	at javafx.fxml/javafx.fxml.FXMLLoader.access$100(FXMLLoader.java:105)
+	at javafx.fxml/javafx.fxml.FXMLLoader$Element.resolvePrefixedValue(FXMLLoader.java:406)
+	at javafx.fxml/javafx.fxml.FXMLLoader$Element.processValue(FXMLLoader.java:370)
+	at javafx.fxml/javafx.fxml.FXMLLoader$Element.processPropertyAttribute(FXMLLoader.java:332)
+	at javafx.fxml/javafx.fxml.FXMLLoader$Element.processInstancePropertyAttributes(FXMLLoader.java:242)
+	at javafx.fxml/javafx.fxml.FXMLLoader$ValueElement.processStartElement(FXMLLoader.java:757)
+	at javafx.fxml/javafx.fxml.FXMLLoader.processStartElement(FXMLLoader.java:2722)
+	at javafx.fxml/javafx.fxml.FXMLLoader.loadImpl(FXMLLoader.java:2552)
+	at javafx.fxml/javafx.fxml.FXMLLoader.loadImpl(FXMLLoader.java:2466)
+	at javafx.fxml/javafx.fxml.FXMLLoader.load(FXMLLoader.java:2435)
+	at mmtfx.main/it.ma.mototrainerp.StageManager.init(StageManager.java:49)
+	at mmtfx.main/it.ma.mototrainerp.Mototrainer.start(Mototrainer.java:33)
+	at javafx.graphics/com.sun.javafx.application.LauncherImpl.lambda$launchApplication1$9(LauncherImpl.java:846)
+	at javafx.graphics/com.sun.javafx.application.PlatformImpl.lambda$runAndWait$12(PlatformImpl.java:455)
+	at javafx.graphics/com.sun.javafx.application.PlatformImpl.lambda$runLater$10(PlatformImpl.java:428)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at javafx.graphics/com.sun.javafx.application.PlatformImpl.lambda$runLater$11(PlatformImpl.java:427)
+	at javafx.graphics/com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:96)
+	at javafx.graphics/com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at javafx.graphics/com.sun.glass.ui.win.WinApplication.lambda$runLoop$3(WinApplication.java:174)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2019-04-23 12:54:52 INFO  Prop:169 - File properties:file:///C:/Users/maria/.mtfx/prop.xml
+2019-04-23 12:54:52 INFO  Prop:120 - Application directory->C:\Users\maria\Coding\gradle\mmtfx
+2019-04-23 12:54:52 INFO  Prop:121 - JAVA Version->11.0.2+9
+2019-04-23 12:54:52 INFO  Prop:122 - mtfx Version(*Manifest)->null
+2019-04-23 12:54:52 INFO  Prop:136 - C:\Users\maria\.mtfx exists or Conf$$ not found, skip files copy.
+2019-04-23 12:54:52 INFO  Prop:150 - Properties file correctly read.
+2019-04-23 12:54:52 INFO  Prop:153 - Properties initialized, now list them:
+2019-04-23 12:54:52 INFO  Prop:158 - ACCELERATORE_MIN=65534
+2019-04-23 12:54:52 INFO  Prop:158 - ACCELERATORE_MAX=0
+2019-04-23 12:54:52 INFO  Prop:158 - FRENO_POSTERIORE_MIN=65534
+2019-04-23 12:54:52 INFO  Prop:158 - FRENO_POSTERIORE_MAX=0
+2019-04-23 12:54:52 INFO  Prop:158 - FRENO_ANTERIORE_MIN=65534
+2019-04-23 12:54:52 INFO  Prop:158 - FRENO_ANTERIORE_MAX=0
+2019-04-23 12:54:52 INFO  Prop:158 - PASSWORD_ADMIN=****
+2019-04-23 12:54:52 INFO  Prop:158 - NUMERO_SCHERMO=0
+2019-04-23 12:54:52 ERROR StageManager:51 - 
+javafx.fxml.LoadException: 
+/C:/Users/maria/Coding/gradle/mmtfx/build/resources/main/fxml/FXMLSetup.fxml:36
+
+	at javafx.fxml/javafx.fxml.FXMLLoader.constructLoadException(FXMLLoader.java:2625)
+	at javafx.fxml/javafx.fxml.FXMLLoader.loadImpl(FXMLLoader.java:2603)
+	at javafx.fxml/javafx.fxml.FXMLLoader.loadImpl(FXMLLoader.java:2466)
+	at javafx.fxml/javafx.fxml.FXMLLoader.load(FXMLLoader.java:2435)
+	at mmtfx.main/it.ma.mototrainerp.StageManager.init(StageManager.java:49)
+	at mmtfx.main/it.ma.mototrainerp.Mototrainer.start(Mototrainer.java:33)
+	at javafx.graphics/com.sun.javafx.application.LauncherImpl.lambda$launchApplication1$9(LauncherImpl.java:846)
+	at javafx.graphics/com.sun.javafx.application.PlatformImpl.lambda$runAndWait$12(PlatformImpl.java:455)
+	at javafx.graphics/com.sun.javafx.application.PlatformImpl.lambda$runLater$10(PlatformImpl.java:428)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at javafx.graphics/com.sun.javafx.application.PlatformImpl.lambda$runLater$11(PlatformImpl.java:427)
+	at javafx.graphics/com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:96)
+	at javafx.graphics/com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at javafx.graphics/com.sun.glass.ui.win.WinApplication.lambda$runLoop$3(WinApplication.java:174)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: java.lang.RuntimeException: java.net.MalformedURLException: no protocol: styles/fxmlsetup.css
+	at javafx.fxml/com.sun.javafx.fxml.builder.URLBuilder.build(URLBuilder.java:83)
+	at javafx.fxml/com.sun.javafx.fxml.builder.URLBuilder.build(URLBuilder.java:38)
+	at javafx.fxml/javafx.fxml.FXMLLoader$ValueElement.processEndElement(FXMLLoader.java:771)
+	at javafx.fxml/javafx.fxml.FXMLLoader.processEndElement(FXMLLoader.java:2838)
+	at javafx.fxml/javafx.fxml.FXMLLoader.loadImpl(FXMLLoader.java:2557)
+	... 13 more
+Caused by: java.net.MalformedURLException: no protocol: styles/fxmlsetup.css
+	at java.base/java.net.URL.<init>(URL.java:627)
+	at java.base/java.net.URL.<init>(URL.java:523)
+	at java.base/java.net.URL.<init>(URL.java:470)
+	at javafx.fxml/com.sun.javafx.fxml.builder.URLBuilder.build(URLBuilder.java:81)
+	... 17 more
+2019-04-23 12:56:03 INFO  Prop:169 - File properties:file:///C:/Users/maria/.mtfx/prop.xml
+2019-04-23 12:56:03 INFO  Prop:120 - Application directory->C:\Users\maria\Coding\gradle\mmtfx
+2019-04-23 12:56:03 INFO  Prop:121 - JAVA Version->11.0.2+9
+2019-04-23 12:56:03 INFO  Prop:122 - mtfx Version(*Manifest)->null
+2019-04-23 12:56:03 INFO  Prop:136 - C:\Users\maria\.mtfx exists or Conf$$ not found, skip files copy.
+2019-04-23 12:56:03 INFO  Prop:150 - Properties file correctly read.
+2019-04-23 12:56:03 INFO  Prop:153 - Properties initialized, now list them:
+2019-04-23 12:56:03 INFO  Prop:158 - ACCELERATORE_MIN=65534
+2019-04-23 12:56:03 INFO  Prop:158 - ACCELERATORE_MAX=0
+2019-04-23 12:56:03 INFO  Prop:158 - FRENO_POSTERIORE_MIN=65534
+2019-04-23 12:56:03 INFO  Prop:158 - FRENO_POSTERIORE_MAX=0
+2019-04-23 12:56:03 INFO  Prop:158 - FRENO_ANTERIORE_MIN=65534
+2019-04-23 12:56:03 INFO  Prop:158 - FRENO_ANTERIORE_MAX=0
+2019-04-23 12:56:03 INFO  Prop:158 - PASSWORD_ADMIN=****
+2019-04-23 12:56:03 INFO  Prop:158 - NUMERO_SCHERMO=0
+2019-04-23 12:56:03 ERROR StageManager:51 - 
+javafx.fxml.LoadException: 
+/C:/Users/maria/Coding/gradle/mmtfx/build/resources/main/fxml/FXMLSetup.fxml:36
+
+	at javafx.fxml/javafx.fxml.FXMLLoader.constructLoadException(FXMLLoader.java:2625)
+	at javafx.fxml/javafx.fxml.FXMLLoader.loadImpl(FXMLLoader.java:2603)
+	at javafx.fxml/javafx.fxml.FXMLLoader.loadImpl(FXMLLoader.java:2466)
+	at javafx.fxml/javafx.fxml.FXMLLoader.load(FXMLLoader.java:2435)
+	at mmtfx.main/it.ma.mototrainerp.StageManager.init(StageManager.java:49)
+	at mmtfx.main/it.ma.mototrainerp.Mototrainer.start(Mototrainer.java:33)
+	at javafx.graphics/com.sun.javafx.application.LauncherImpl.lambda$launchApplication1$9(LauncherImpl.java:846)
+	at javafx.graphics/com.sun.javafx.application.PlatformImpl.lambda$runAndWait$12(PlatformImpl.java:455)
+	at javafx.graphics/com.sun.javafx.application.PlatformImpl.lambda$runLater$10(PlatformImpl.java:428)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at javafx.graphics/com.sun.javafx.application.PlatformImpl.lambda$runLater$11(PlatformImpl.java:427)
+	at javafx.graphics/com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:96)
+	at javafx.graphics/com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at javafx.graphics/com.sun.glass.ui.win.WinApplication.lambda$runLoop$3(WinApplication.java:174)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: java.lang.RuntimeException: java.net.MalformedURLException: no protocol: ./styles/fxmlsetup.css
+	at javafx.fxml/com.sun.javafx.fxml.builder.URLBuilder.build(URLBuilder.java:83)
+	at javafx.fxml/com.sun.javafx.fxml.builder.URLBuilder.build(URLBuilder.java:38)
+	at javafx.fxml/javafx.fxml.FXMLLoader$ValueElement.processEndElement(FXMLLoader.java:771)
+	at javafx.fxml/javafx.fxml.FXMLLoader.processEndElement(FXMLLoader.java:2838)
+	at javafx.fxml/javafx.fxml.FXMLLoader.loadImpl(FXMLLoader.java:2557)
+	... 13 more
+Caused by: java.net.MalformedURLException: no protocol: ./styles/fxmlsetup.css
+	at java.base/java.net.URL.<init>(URL.java:627)
+	at java.base/java.net.URL.<init>(URL.java:523)
+	at java.base/java.net.URL.<init>(URL.java:470)
+	at javafx.fxml/com.sun.javafx.fxml.builder.URLBuilder.build(URLBuilder.java:81)
+	... 17 more
+2019-04-23 12:56:25 INFO  Prop:169 - File properties:file:///C:/Users/maria/.mtfx/prop.xml
+2019-04-23 12:56:25 INFO  Prop:120 - Application directory->C:\Users\maria\Coding\gradle\mmtfx
+2019-04-23 12:56:25 INFO  Prop:121 - JAVA Version->11.0.2+9
+2019-04-23 12:56:25 INFO  Prop:122 - mtfx Version(*Manifest)->null
+2019-04-23 12:56:25 INFO  Prop:136 - C:\Users\maria\.mtfx exists or Conf$$ not found, skip files copy.
+2019-04-23 12:56:25 INFO  Prop:150 - Properties file correctly read.
+2019-04-23 12:56:25 INFO  Prop:153 - Properties initialized, now list them:
+2019-04-23 12:56:25 INFO  Prop:158 - ACCELERATORE_MIN=65534
+2019-04-23 12:56:25 INFO  Prop:158 - ACCELERATORE_MAX=0
+2019-04-23 12:56:25 INFO  Prop:158 - FRENO_POSTERIORE_MIN=65534
+2019-04-23 12:56:25 INFO  Prop:158 - FRENO_POSTERIORE_MAX=0
+2019-04-23 12:56:25 INFO  Prop:158 - FRENO_ANTERIORE_MIN=65534
+2019-04-23 12:56:25 INFO  Prop:158 - FRENO_ANTERIORE_MAX=0
+2019-04-23 12:56:25 INFO  Prop:158 - PASSWORD_ADMIN=****
+2019-04-23 12:56:25 INFO  Prop:158 - NUMERO_SCHERMO=0
+2019-04-23 12:56:25 ERROR StageManager:51 - 
+javafx.fxml.LoadException: Invalid resource: /styles/fxmlsetup.css not found on the classpath
+/C:/Users/maria/Coding/gradle/mmtfx/build/resources/main/fxml/FXMLSetup.fxml:36
+
+	at javafx.fxml/javafx.fxml.FXMLLoader.constructLoadException(FXMLLoader.java:2621)
+	at javafx.fxml/javafx.fxml.FXMLLoader.access$100(FXMLLoader.java:105)
+	at javafx.fxml/javafx.fxml.FXMLLoader$Element.resolvePrefixedValue(FXMLLoader.java:406)
+	at javafx.fxml/javafx.fxml.FXMLLoader$Element.processValue(FXMLLoader.java:370)
+	at javafx.fxml/javafx.fxml.FXMLLoader$Element.processPropertyAttribute(FXMLLoader.java:332)
+	at javafx.fxml/javafx.fxml.FXMLLoader$Element.processInstancePropertyAttributes(FXMLLoader.java:242)
+	at javafx.fxml/javafx.fxml.FXMLLoader$ValueElement.processStartElement(FXMLLoader.java:757)
+	at javafx.fxml/javafx.fxml.FXMLLoader.processStartElement(FXMLLoader.java:2722)
+	at javafx.fxml/javafx.fxml.FXMLLoader.loadImpl(FXMLLoader.java:2552)
+	at javafx.fxml/javafx.fxml.FXMLLoader.loadImpl(FXMLLoader.java:2466)
+	at javafx.fxml/javafx.fxml.FXMLLoader.load(FXMLLoader.java:2435)
+	at mmtfx.main/it.ma.mototrainerp.StageManager.init(StageManager.java:49)
+	at mmtfx.main/it.ma.mototrainerp.Mototrainer.start(Mototrainer.java:33)
+	at javafx.graphics/com.sun.javafx.application.LauncherImpl.lambda$launchApplication1$9(LauncherImpl.java:846)
+	at javafx.graphics/com.sun.javafx.application.PlatformImpl.lambda$runAndWait$12(PlatformImpl.java:455)
+	at javafx.graphics/com.sun.javafx.application.PlatformImpl.lambda$runLater$10(PlatformImpl.java:428)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at javafx.graphics/com.sun.javafx.application.PlatformImpl.lambda$runLater$11(PlatformImpl.java:427)
+	at javafx.graphics/com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:96)
+	at javafx.graphics/com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at javafx.graphics/com.sun.glass.ui.win.WinApplication.lambda$runLoop$3(WinApplication.java:174)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2019-04-23 12:57:19 INFO  Prop:169 - File properties:file:///C:/Users/maria/.mtfx/prop.xml
+2019-04-23 12:57:19 INFO  Prop:120 - Application directory->C:\Users\maria\Coding\gradle\mmtfx
+2019-04-23 12:57:19 INFO  Prop:121 - JAVA Version->11.0.2+9
+2019-04-23 12:57:19 INFO  Prop:122 - mtfx Version(*Manifest)->null
+2019-04-23 12:57:19 INFO  Prop:136 - C:\Users\maria\.mtfx exists or Conf$$ not found, skip files copy.
+2019-04-23 12:57:19 INFO  Prop:150 - Properties file correctly read.
+2019-04-23 12:57:19 INFO  Prop:153 - Properties initialized, now list them:
+2019-04-23 12:57:19 INFO  Prop:158 - ACCELERATORE_MIN=65534
+2019-04-23 12:57:19 INFO  Prop:158 - ACCELERATORE_MAX=0
+2019-04-23 12:57:19 INFO  Prop:158 - FRENO_POSTERIORE_MIN=65534
+2019-04-23 12:57:19 INFO  Prop:158 - FRENO_POSTERIORE_MAX=0
+2019-04-23 12:57:19 INFO  Prop:158 - FRENO_ANTERIORE_MIN=65534
+2019-04-23 12:57:19 INFO  Prop:158 - FRENO_ANTERIORE_MAX=0
+2019-04-23 12:57:19 INFO  Prop:158 - PASSWORD_ADMIN=****
+2019-04-23 12:57:19 INFO  Prop:158 - NUMERO_SCHERMO=0
+2019-04-23 12:57:19 ERROR StageManager:51 - 
+javafx.fxml.LoadException: 
+/C:/Users/maria/Coding/gradle/mmtfx/build/resources/main/fxml/FXMLSetup.fxml:36
+
+	at javafx.fxml/javafx.fxml.FXMLLoader.constructLoadException(FXMLLoader.java:2625)
+	at javafx.fxml/javafx.fxml.FXMLLoader.loadImpl(FXMLLoader.java:2603)
+	at javafx.fxml/javafx.fxml.FXMLLoader.loadImpl(FXMLLoader.java:2466)
+	at javafx.fxml/javafx.fxml.FXMLLoader.load(FXMLLoader.java:2435)
+	at mmtfx.main/it.ma.mototrainerp.StageManager.init(StageManager.java:49)
+	at mmtfx.main/it.ma.mototrainerp.Mototrainer.start(Mototrainer.java:33)
+	at javafx.graphics/com.sun.javafx.application.LauncherImpl.lambda$launchApplication1$9(LauncherImpl.java:846)
+	at javafx.graphics/com.sun.javafx.application.PlatformImpl.lambda$runAndWait$12(PlatformImpl.java:455)
+	at javafx.graphics/com.sun.javafx.application.PlatformImpl.lambda$runLater$10(PlatformImpl.java:428)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at javafx.graphics/com.sun.javafx.application.PlatformImpl.lambda$runLater$11(PlatformImpl.java:427)
+	at javafx.graphics/com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:96)
+	at javafx.graphics/com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at javafx.graphics/com.sun.glass.ui.win.WinApplication.lambda$runLoop$3(WinApplication.java:174)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: java.lang.RuntimeException: java.net.MalformedURLException: no protocol: fxmlsetup.css
+	at javafx.fxml/com.sun.javafx.fxml.builder.URLBuilder.build(URLBuilder.java:83)
+	at javafx.fxml/com.sun.javafx.fxml.builder.URLBuilder.build(URLBuilder.java:38)
+	at javafx.fxml/javafx.fxml.FXMLLoader$ValueElement.processEndElement(FXMLLoader.java:771)
+	at javafx.fxml/javafx.fxml.FXMLLoader.processEndElement(FXMLLoader.java:2838)
+	at javafx.fxml/javafx.fxml.FXMLLoader.loadImpl(FXMLLoader.java:2557)
+	... 13 more
+Caused by: java.net.MalformedURLException: no protocol: fxmlsetup.css
+	at java.base/java.net.URL.<init>(URL.java:627)
+	at java.base/java.net.URL.<init>(URL.java:523)
+	at java.base/java.net.URL.<init>(URL.java:470)
+	at javafx.fxml/com.sun.javafx.fxml.builder.URLBuilder.build(URLBuilder.java:81)
+	... 17 more
+2019-04-23 12:59:47 INFO  Prop:169 - File properties:file:///C:/Users/maria/.mtfx/prop.xml
+2019-04-23 12:59:47 INFO  Prop:120 - Application directory->C:\Users\maria\Coding\gradle\mmtfx
+2019-04-23 12:59:47 INFO  Prop:121 - JAVA Version->11.0.2+9
+2019-04-23 12:59:47 INFO  Prop:122 - mtfx Version(*Manifest)->null
+2019-04-23 12:59:47 INFO  Prop:136 - C:\Users\maria\.mtfx exists or Conf$$ not found, skip files copy.
+2019-04-23 12:59:47 INFO  Prop:150 - Properties file correctly read.
+2019-04-23 12:59:47 INFO  Prop:153 - Properties initialized, now list them:
+2019-04-23 12:59:47 INFO  Prop:158 - ACCELERATORE_MIN=65534
+2019-04-23 12:59:47 INFO  Prop:158 - ACCELERATORE_MAX=0
+2019-04-23 12:59:47 INFO  Prop:158 - FRENO_POSTERIORE_MIN=65534
+2019-04-23 12:59:47 INFO  Prop:158 - FRENO_POSTERIORE_MAX=0
+2019-04-23 12:59:47 INFO  Prop:158 - FRENO_ANTERIORE_MIN=65534
+2019-04-23 12:59:47 INFO  Prop:158 - FRENO_ANTERIORE_MAX=0
+2019-04-23 12:59:47 INFO  Prop:158 - PASSWORD_ADMIN=****
+2019-04-23 12:59:47 INFO  Prop:158 - NUMERO_SCHERMO=0
+2019-04-23 12:59:48 DEBUG FXMLSetupController:129 - initialize()
+2019-04-23 12:59:48 DEBUG FXMLVideoController:91 - initialize()
+2019-04-23 12:59:48 DEBUG FXMLPostVideoController:32 - initialize()
+2019-04-23 12:59:48 ERROR StageManager:51 - 
+javafx.fxml.LoadException: Invalid resource: /styles/fxmladmin.css not found on the classpath
+/C:/Users/maria/Coding/gradle/mmtfx/build/resources/main/fxml/FXMLAdmin.fxml:24
+
+	at javafx.fxml/javafx.fxml.FXMLLoader.constructLoadException(FXMLLoader.java:2621)
+	at javafx.fxml/javafx.fxml.FXMLLoader.access$100(FXMLLoader.java:105)
+	at javafx.fxml/javafx.fxml.FXMLLoader$Element.resolvePrefixedValue(FXMLLoader.java:406)
+	at javafx.fxml/javafx.fxml.FXMLLoader$Element.processValue(FXMLLoader.java:370)
+	at javafx.fxml/javafx.fxml.FXMLLoader$Element.processPropertyAttribute(FXMLLoader.java:332)
+	at javafx.fxml/javafx.fxml.FXMLLoader$Element.processInstancePropertyAttributes(FXMLLoader.java:242)
+	at javafx.fxml/javafx.fxml.FXMLLoader$ValueElement.processStartElement(FXMLLoader.java:757)
+	at javafx.fxml/javafx.fxml.FXMLLoader.processStartElement(FXMLLoader.java:2722)
+	at javafx.fxml/javafx.fxml.FXMLLoader.loadImpl(FXMLLoader.java:2552)
+	at javafx.fxml/javafx.fxml.FXMLLoader.loadImpl(FXMLLoader.java:2466)
+	at javafx.fxml/javafx.fxml.FXMLLoader.load(FXMLLoader.java:2435)
+	at mmtfx.main/it.ma.mototrainerp.StageManager.init(StageManager.java:49)
+	at mmtfx.main/it.ma.mototrainerp.Mototrainer.start(Mototrainer.java:33)
+	at javafx.graphics/com.sun.javafx.application.LauncherImpl.lambda$launchApplication1$9(LauncherImpl.java:846)
+	at javafx.graphics/com.sun.javafx.application.PlatformImpl.lambda$runAndWait$12(PlatformImpl.java:455)
+	at javafx.graphics/com.sun.javafx.application.PlatformImpl.lambda$runLater$10(PlatformImpl.java:428)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at javafx.graphics/com.sun.javafx.application.PlatformImpl.lambda$runLater$11(PlatformImpl.java:427)
+	at javafx.graphics/com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:96)
+	at javafx.graphics/com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at javafx.graphics/com.sun.glass.ui.win.WinApplication.lambda$runLoop$3(WinApplication.java:174)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2019-04-23 13:00:17 INFO  Prop:169 - File properties:file:///C:/Users/maria/.mtfx/prop.xml
+2019-04-23 13:00:17 INFO  Prop:120 - Application directory->C:\Users\maria\Coding\gradle\mmtfx
+2019-04-23 13:00:17 INFO  Prop:121 - JAVA Version->11.0.2+9
+2019-04-23 13:00:17 INFO  Prop:122 - mtfx Version(*Manifest)->null
+2019-04-23 13:00:17 INFO  Prop:136 - C:\Users\maria\.mtfx exists or Conf$$ not found, skip files copy.
+2019-04-23 13:00:17 INFO  Prop:150 - Properties file correctly read.
+2019-04-23 13:00:17 INFO  Prop:153 - Properties initialized, now list them:
+2019-04-23 13:00:17 INFO  Prop:158 - ACCELERATORE_MIN=65534
+2019-04-23 13:00:17 INFO  Prop:158 - ACCELERATORE_MAX=0
+2019-04-23 13:00:17 INFO  Prop:158 - FRENO_POSTERIORE_MIN=65534
+2019-04-23 13:00:17 INFO  Prop:158 - FRENO_POSTERIORE_MAX=0
+2019-04-23 13:00:17 INFO  Prop:158 - FRENO_ANTERIORE_MIN=65534
+2019-04-23 13:00:17 INFO  Prop:158 - FRENO_ANTERIORE_MAX=0
+2019-04-23 13:00:17 INFO  Prop:158 - PASSWORD_ADMIN=****
+2019-04-23 13:00:17 INFO  Prop:158 - NUMERO_SCHERMO=0
+2019-04-23 13:00:18 DEBUG FXMLSetupController:129 - initialize()
+2019-04-23 13:00:18 DEBUG FXMLVideoController:91 - initialize()
+2019-04-23 13:00:18 DEBUG FXMLPostVideoController:32 - initialize()
+2019-04-23 13:00:18 ERROR StageManager:51 - 
+javafx.fxml.LoadException: Invalid resource: /styles/fxmladmin.css not found on the classpath
+/C:/Users/maria/Coding/gradle/mmtfx/build/resources/main/fxml/FXMLAdmin.fxml:24
+
+	at javafx.fxml/javafx.fxml.FXMLLoader.constructLoadException(FXMLLoader.java:2621)
+	at javafx.fxml/javafx.fxml.FXMLLoader.access$100(FXMLLoader.java:105)
+	at javafx.fxml/javafx.fxml.FXMLLoader$Element.resolvePrefixedValue(FXMLLoader.java:406)
+	at javafx.fxml/javafx.fxml.FXMLLoader$Element.processValue(FXMLLoader.java:370)
+	at javafx.fxml/javafx.fxml.FXMLLoader$Element.processPropertyAttribute(FXMLLoader.java:332)
+	at javafx.fxml/javafx.fxml.FXMLLoader$Element.processInstancePropertyAttributes(FXMLLoader.java:242)
+	at javafx.fxml/javafx.fxml.FXMLLoader$ValueElement.processStartElement(FXMLLoader.java:757)
+	at javafx.fxml/javafx.fxml.FXMLLoader.processStartElement(FXMLLoader.java:2722)
+	at javafx.fxml/javafx.fxml.FXMLLoader.loadImpl(FXMLLoader.java:2552)
+	at javafx.fxml/javafx.fxml.FXMLLoader.loadImpl(FXMLLoader.java:2466)
+	at javafx.fxml/javafx.fxml.FXMLLoader.load(FXMLLoader.java:2435)
+	at mmtfx.main/it.ma.mototrainerp.StageManager.init(StageManager.java:49)
+	at mmtfx.main/it.ma.mototrainerp.Mototrainer.start(Mototrainer.java:33)
+	at javafx.graphics/com.sun.javafx.application.LauncherImpl.lambda$launchApplication1$9(LauncherImpl.java:846)
+	at javafx.graphics/com.sun.javafx.application.PlatformImpl.lambda$runAndWait$12(PlatformImpl.java:455)
+	at javafx.graphics/com.sun.javafx.application.PlatformImpl.lambda$runLater$10(PlatformImpl.java:428)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at javafx.graphics/com.sun.javafx.application.PlatformImpl.lambda$runLater$11(PlatformImpl.java:427)
+	at javafx.graphics/com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:96)
+	at javafx.graphics/com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at javafx.graphics/com.sun.glass.ui.win.WinApplication.lambda$runLoop$3(WinApplication.java:174)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2019-04-23 13:02:14 INFO  Prop:169 - File properties:file:///C:/Users/maria/.mtfx/prop.xml
+2019-04-23 13:02:14 INFO  Prop:120 - Application directory->C:\Users\maria\Coding\gradle\mmtfx
+2019-04-23 13:02:14 INFO  Prop:121 - JAVA Version->11.0.2+9
+2019-04-23 13:02:14 INFO  Prop:122 - mtfx Version(*Manifest)->null
+2019-04-23 13:02:14 INFO  Prop:136 - C:\Users\maria\.mtfx exists or Conf$$ not found, skip files copy.
+2019-04-23 13:02:14 INFO  Prop:150 - Properties file correctly read.
+2019-04-23 13:02:14 INFO  Prop:153 - Properties initialized, now list them:
+2019-04-23 13:02:14 INFO  Prop:158 - ACCELERATORE_MIN=65534
+2019-04-23 13:02:14 INFO  Prop:158 - ACCELERATORE_MAX=0
+2019-04-23 13:02:14 INFO  Prop:158 - FRENO_POSTERIORE_MIN=65534
+2019-04-23 13:02:14 INFO  Prop:158 - FRENO_POSTERIORE_MAX=0
+2019-04-23 13:02:14 INFO  Prop:158 - FRENO_ANTERIORE_MIN=65534
+2019-04-23 13:02:14 INFO  Prop:158 - FRENO_ANTERIORE_MAX=0
+2019-04-23 13:02:14 INFO  Prop:158 - PASSWORD_ADMIN=****
+2019-04-23 13:02:14 INFO  Prop:158 - NUMERO_SCHERMO=0
+2019-04-23 13:02:14 ERROR StageManager:51 - 
+javafx.fxml.LoadException: Invalid resource: /styles/fxmlsetup.css not found on the classpath
+/C:/Users/maria/Coding/gradle/mmtfx/build/resources/main/fxml/FXMLSetup.fxml:36
+
+	at javafx.fxml/javafx.fxml.FXMLLoader.constructLoadException(FXMLLoader.java:2621)
+	at javafx.fxml/javafx.fxml.FXMLLoader.access$100(FXMLLoader.java:105)
+	at javafx.fxml/javafx.fxml.FXMLLoader$Element.resolvePrefixedValue(FXMLLoader.java:406)
+	at javafx.fxml/javafx.fxml.FXMLLoader$Element.processValue(FXMLLoader.java:370)
+	at javafx.fxml/javafx.fxml.FXMLLoader$Element.processPropertyAttribute(FXMLLoader.java:332)
+	at javafx.fxml/javafx.fxml.FXMLLoader$Element.processInstancePropertyAttributes(FXMLLoader.java:242)
+	at javafx.fxml/javafx.fxml.FXMLLoader$ValueElement.processStartElement(FXMLLoader.java:757)
+	at javafx.fxml/javafx.fxml.FXMLLoader.processStartElement(FXMLLoader.java:2722)
+	at javafx.fxml/javafx.fxml.FXMLLoader.loadImpl(FXMLLoader.java:2552)
+	at javafx.fxml/javafx.fxml.FXMLLoader.loadImpl(FXMLLoader.java:2466)
+	at javafx.fxml/javafx.fxml.FXMLLoader.load(FXMLLoader.java:2435)
+	at mmtfx.main/it.ma.mototrainerp.StageManager.init(StageManager.java:49)
+	at mmtfx.main/it.ma.mototrainerp.Mototrainer.start(Mototrainer.java:33)
+	at javafx.graphics/com.sun.javafx.application.LauncherImpl.lambda$launchApplication1$9(LauncherImpl.java:846)
+	at javafx.graphics/com.sun.javafx.application.PlatformImpl.lambda$runAndWait$12(PlatformImpl.java:455)
+	at javafx.graphics/com.sun.javafx.application.PlatformImpl.lambda$runLater$10(PlatformImpl.java:428)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at javafx.graphics/com.sun.javafx.application.PlatformImpl.lambda$runLater$11(PlatformImpl.java:427)
+	at javafx.graphics/com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:96)
+	at javafx.graphics/com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at javafx.graphics/com.sun.glass.ui.win.WinApplication.lambda$runLoop$3(WinApplication.java:174)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2019-04-23 13:02:56 INFO  Prop:169 - File properties:file:///C:/Users/maria/.mtfx/prop.xml
+2019-04-23 13:02:56 INFO  Prop:120 - Application directory->C:\Users\maria\Coding\gradle\mmtfx
+2019-04-23 13:02:56 INFO  Prop:121 - JAVA Version->11.0.2+9
+2019-04-23 13:02:56 INFO  Prop:122 - mtfx Version(*Manifest)->null
+2019-04-23 13:02:56 INFO  Prop:136 - C:\Users\maria\.mtfx exists or Conf$$ not found, skip files copy.
+2019-04-23 13:02:56 INFO  Prop:150 - Properties file correctly read.
+2019-04-23 13:02:56 INFO  Prop:153 - Properties initialized, now list them:
+2019-04-23 13:02:56 INFO  Prop:158 - ACCELERATORE_MIN=65534
+2019-04-23 13:02:56 INFO  Prop:158 - ACCELERATORE_MAX=0
+2019-04-23 13:02:56 INFO  Prop:158 - FRENO_POSTERIORE_MIN=65534
+2019-04-23 13:02:56 INFO  Prop:158 - FRENO_POSTERIORE_MAX=0
+2019-04-23 13:02:56 INFO  Prop:158 - FRENO_ANTERIORE_MIN=65534
+2019-04-23 13:02:56 INFO  Prop:158 - FRENO_ANTERIORE_MAX=0
+2019-04-23 13:02:56 INFO  Prop:158 - PASSWORD_ADMIN=****
+2019-04-23 13:02:56 INFO  Prop:158 - NUMERO_SCHERMO=0
+2019-04-23 13:02:57 DEBUG FXMLSetupController:129 - initialize()
+2019-04-23 13:02:58 DEBUG FXMLVideoController:91 - initialize()
+2019-04-23 13:02:58 DEBUG FXMLPostVideoController:32 - initialize()
+2019-04-23 13:02:58 ERROR StageManager:51 - 
+javafx.fxml.LoadException: Invalid resource: /styles/fxmladmin.css not found on the classpath
+/C:/Users/maria/Coding/gradle/mmtfx/build/resources/main/fxml/FXMLAdmin.fxml:24
+
+	at javafx.fxml/javafx.fxml.FXMLLoader.constructLoadException(FXMLLoader.java:2621)
+	at javafx.fxml/javafx.fxml.FXMLLoader.access$100(FXMLLoader.java:105)
+	at javafx.fxml/javafx.fxml.FXMLLoader$Element.resolvePrefixedValue(FXMLLoader.java:406)
+	at javafx.fxml/javafx.fxml.FXMLLoader$Element.processValue(FXMLLoader.java:370)
+	at javafx.fxml/javafx.fxml.FXMLLoader$Element.processPropertyAttribute(FXMLLoader.java:332)
+	at javafx.fxml/javafx.fxml.FXMLLoader$Element.processInstancePropertyAttributes(FXMLLoader.java:242)
+	at javafx.fxml/javafx.fxml.FXMLLoader$ValueElement.processStartElement(FXMLLoader.java:757)
+	at javafx.fxml/javafx.fxml.FXMLLoader.processStartElement(FXMLLoader.java:2722)
+	at javafx.fxml/javafx.fxml.FXMLLoader.loadImpl(FXMLLoader.java:2552)
+	at javafx.fxml/javafx.fxml.FXMLLoader.loadImpl(FXMLLoader.java:2466)
+	at javafx.fxml/javafx.fxml.FXMLLoader.load(FXMLLoader.java:2435)
+	at mmtfx.main/it.ma.mototrainerp.StageManager.init(StageManager.java:49)
+	at mmtfx.main/it.ma.mototrainerp.Mototrainer.start(Mototrainer.java:33)
+	at javafx.graphics/com.sun.javafx.application.LauncherImpl.lambda$launchApplication1$9(LauncherImpl.java:846)
+	at javafx.graphics/com.sun.javafx.application.PlatformImpl.lambda$runAndWait$12(PlatformImpl.java:455)
+	at javafx.graphics/com.sun.javafx.application.PlatformImpl.lambda$runLater$10(PlatformImpl.java:428)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at javafx.graphics/com.sun.javafx.application.PlatformImpl.lambda$runLater$11(PlatformImpl.java:427)
+	at javafx.graphics/com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:96)
+	at javafx.graphics/com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at javafx.graphics/com.sun.glass.ui.win.WinApplication.lambda$runLoop$3(WinApplication.java:174)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2019-04-23 13:05:10 INFO  Prop:169 - File properties:file:///C:/Users/maria/.mtfx/prop.xml
+2019-04-23 13:05:10 INFO  Prop:120 - Application directory->C:\Users\maria\Coding\gradle\mmtfx
+2019-04-23 13:05:11 INFO  Prop:121 - JAVA Version->11.0.2+9
+2019-04-23 13:05:11 INFO  Prop:122 - mtfx Version(*Manifest)->null
+2019-04-23 13:05:11 INFO  Prop:136 - C:\Users\maria\.mtfx exists or Conf$$ not found, skip files copy.
+2019-04-23 13:05:11 INFO  Prop:150 - Properties file correctly read.
+2019-04-23 13:05:11 INFO  Prop:153 - Properties initialized, now list them:
+2019-04-23 13:05:11 INFO  Prop:158 - ACCELERATORE_MIN=65534
+2019-04-23 13:05:11 INFO  Prop:158 - ACCELERATORE_MAX=0
+2019-04-23 13:05:11 INFO  Prop:158 - FRENO_POSTERIORE_MIN=65534
+2019-04-23 13:05:11 INFO  Prop:158 - FRENO_POSTERIORE_MAX=0
+2019-04-23 13:05:11 INFO  Prop:158 - FRENO_ANTERIORE_MIN=65534
+2019-04-23 13:05:11 INFO  Prop:158 - FRENO_ANTERIORE_MAX=0
+2019-04-23 13:05:11 INFO  Prop:158 - PASSWORD_ADMIN=****
+2019-04-23 13:05:11 INFO  Prop:158 - NUMERO_SCHERMO=0
+2019-04-23 13:05:11 DEBUG FXMLSetupController:129 - initialize()
+2019-04-23 13:05:12 DEBUG FXMLVideoController:91 - initialize()
+2019-04-23 13:05:12 DEBUG FXMLPostVideoController:32 - initialize()
+2019-04-23 13:05:12 ERROR StageManager:51 - 
+javafx.fxml.LoadException: Invalid resource: /styles/fxmladmin.css not found on the classpath
+/C:/Users/maria/Coding/gradle/mmtfx/build/resources/main/fxml/FXMLAdmin.fxml:24
+
+	at javafx.fxml/javafx.fxml.FXMLLoader.constructLoadException(FXMLLoader.java:2621)
+	at javafx.fxml/javafx.fxml.FXMLLoader.access$100(FXMLLoader.java:105)
+	at javafx.fxml/javafx.fxml.FXMLLoader$Element.resolvePrefixedValue(FXMLLoader.java:406)
+	at javafx.fxml/javafx.fxml.FXMLLoader$Element.processValue(FXMLLoader.java:370)
+	at javafx.fxml/javafx.fxml.FXMLLoader$Element.processPropertyAttribute(FXMLLoader.java:332)
+	at javafx.fxml/javafx.fxml.FXMLLoader$Element.processInstancePropertyAttributes(FXMLLoader.java:242)
+	at javafx.fxml/javafx.fxml.FXMLLoader$ValueElement.processStartElement(FXMLLoader.java:757)
+	at javafx.fxml/javafx.fxml.FXMLLoader.processStartElement(FXMLLoader.java:2722)
+	at javafx.fxml/javafx.fxml.FXMLLoader.loadImpl(FXMLLoader.java:2552)
+	at javafx.fxml/javafx.fxml.FXMLLoader.loadImpl(FXMLLoader.java:2466)
+	at javafx.fxml/javafx.fxml.FXMLLoader.load(FXMLLoader.java:2435)
+	at mmtfx.main/it.ma.mototrainerp.StageManager.init(StageManager.java:49)
+	at mmtfx.main/it.ma.mototrainerp.Mototrainer.start(Mototrainer.java:33)
+	at javafx.graphics/com.sun.javafx.application.LauncherImpl.lambda$launchApplication1$9(LauncherImpl.java:846)
+	at javafx.graphics/com.sun.javafx.application.PlatformImpl.lambda$runAndWait$12(PlatformImpl.java:455)
+	at javafx.graphics/com.sun.javafx.application.PlatformImpl.lambda$runLater$10(PlatformImpl.java:428)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at javafx.graphics/com.sun.javafx.application.PlatformImpl.lambda$runLater$11(PlatformImpl.java:427)
+	at javafx.graphics/com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:96)
+	at javafx.graphics/com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at javafx.graphics/com.sun.glass.ui.win.WinApplication.lambda$runLoop$3(WinApplication.java:174)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2019-04-23 13:05:47 INFO  Prop:169 - File properties:file:///C:/Users/maria/.mtfx/prop.xml
+2019-04-23 13:05:47 INFO  Prop:120 - Application directory->C:\Users\maria\Coding\gradle\mmtfx
+2019-04-23 13:05:47 INFO  Prop:121 - JAVA Version->11.0.2+9
+2019-04-23 13:05:47 INFO  Prop:122 - mtfx Version(*Manifest)->null
+2019-04-23 13:05:47 INFO  Prop:136 - C:\Users\maria\.mtfx exists or Conf$$ not found, skip files copy.
+2019-04-23 13:05:47 INFO  Prop:150 - Properties file correctly read.
+2019-04-23 13:05:47 INFO  Prop:153 - Properties initialized, now list them:
+2019-04-23 13:05:47 INFO  Prop:158 - ACCELERATORE_MIN=65534
+2019-04-23 13:05:47 INFO  Prop:158 - ACCELERATORE_MAX=0
+2019-04-23 13:05:47 INFO  Prop:158 - FRENO_POSTERIORE_MIN=65534
+2019-04-23 13:05:47 INFO  Prop:158 - FRENO_POSTERIORE_MAX=0
+2019-04-23 13:05:47 INFO  Prop:158 - FRENO_ANTERIORE_MIN=65534
+2019-04-23 13:05:47 INFO  Prop:158 - FRENO_ANTERIORE_MAX=0
+2019-04-23 13:05:47 INFO  Prop:158 - PASSWORD_ADMIN=****
+2019-04-23 13:05:47 INFO  Prop:158 - NUMERO_SCHERMO=0
+2019-04-23 13:05:48 DEBUG FXMLSetupController:129 - initialize()
+2019-04-23 13:05:48 DEBUG FXMLVideoController:91 - initialize()
+2019-04-23 13:05:48 DEBUG FXMLPostVideoController:32 - initialize()
+2019-04-23 13:05:48 ERROR StageManager:51 - 
+javafx.fxml.LoadException: Invalid resource: /styles/fxmladmin.css not found on the classpath
+/C:/Users/maria/Coding/gradle/mmtfx/build/resources/main/fxml/FXMLAdmin.fxml:24
+
+	at javafx.fxml/javafx.fxml.FXMLLoader.constructLoadException(FXMLLoader.java:2621)
+	at javafx.fxml/javafx.fxml.FXMLLoader.access$100(FXMLLoader.java:105)
+	at javafx.fxml/javafx.fxml.FXMLLoader$Element.resolvePrefixedValue(FXMLLoader.java:406)
+	at javafx.fxml/javafx.fxml.FXMLLoader$Element.processValue(FXMLLoader.java:370)
+	at javafx.fxml/javafx.fxml.FXMLLoader$Element.processPropertyAttribute(FXMLLoader.java:332)
+	at javafx.fxml/javafx.fxml.FXMLLoader$Element.processInstancePropertyAttributes(FXMLLoader.java:242)
+	at javafx.fxml/javafx.fxml.FXMLLoader$ValueElement.processStartElement(FXMLLoader.java:757)
+	at javafx.fxml/javafx.fxml.FXMLLoader.processStartElement(FXMLLoader.java:2722)
+	at javafx.fxml/javafx.fxml.FXMLLoader.loadImpl(FXMLLoader.java:2552)
+	at javafx.fxml/javafx.fxml.FXMLLoader.loadImpl(FXMLLoader.java:2466)
+	at javafx.fxml/javafx.fxml.FXMLLoader.load(FXMLLoader.java:2435)
+	at mmtfx.main/it.ma.mototrainerp.StageManager.init(StageManager.java:49)
+	at mmtfx.main/it.ma.mototrainerp.Mototrainer.start(Mototrainer.java:33)
+	at javafx.graphics/com.sun.javafx.application.LauncherImpl.lambda$launchApplication1$9(LauncherImpl.java:846)
+	at javafx.graphics/com.sun.javafx.application.PlatformImpl.lambda$runAndWait$12(PlatformImpl.java:455)
+	at javafx.graphics/com.sun.javafx.application.PlatformImpl.lambda$runLater$10(PlatformImpl.java:428)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at javafx.graphics/com.sun.javafx.application.PlatformImpl.lambda$runLater$11(PlatformImpl.java:427)
+	at javafx.graphics/com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:96)
+	at javafx.graphics/com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at javafx.graphics/com.sun.glass.ui.win.WinApplication.lambda$runLoop$3(WinApplication.java:174)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2019-04-23 13:08:19 INFO  Prop:169 - File properties:file:///C:/Users/maria/.mtfx/prop.xml
+2019-04-23 13:08:19 INFO  Prop:120 - Application directory->C:\Users\maria\Coding\gradle\mmtfx
+2019-04-23 13:08:19 INFO  Prop:121 - JAVA Version->11.0.2+9
+2019-04-23 13:08:19 INFO  Prop:122 - mtfx Version(*Manifest)->null
+2019-04-23 13:08:19 INFO  Prop:136 - C:\Users\maria\.mtfx exists or Conf$$ not found, skip files copy.
+2019-04-23 13:08:19 INFO  Prop:150 - Properties file correctly read.
+2019-04-23 13:08:19 INFO  Prop:153 - Properties initialized, now list them:
+2019-04-23 13:08:19 INFO  Prop:158 - ACCELERATORE_MIN=65534
+2019-04-23 13:08:19 INFO  Prop:158 - ACCELERATORE_MAX=0
+2019-04-23 13:08:19 INFO  Prop:158 - FRENO_POSTERIORE_MIN=65534
+2019-04-23 13:08:19 INFO  Prop:158 - FRENO_POSTERIORE_MAX=0
+2019-04-23 13:08:19 INFO  Prop:158 - FRENO_ANTERIORE_MIN=65534
+2019-04-23 13:08:19 INFO  Prop:158 - FRENO_ANTERIORE_MAX=0
+2019-04-23 13:08:19 INFO  Prop:158 - PASSWORD_ADMIN=****
+2019-04-23 13:08:19 INFO  Prop:158 - NUMERO_SCHERMO=0
+2019-04-23 13:08:20 DEBUG FXMLSetupController:129 - initialize()
+2019-04-23 13:08:20 DEBUG FXMLVideoController:91 - initialize()
+2019-04-23 13:08:20 DEBUG FXMLPostVideoController:32 - initialize()
+2019-04-23 13:08:20 ERROR StageManager:51 - 
+javafx.fxml.LoadException: Invalid resource: /styles/fxmladmin.css not found on the classpath
+/C:/Users/maria/Coding/gradle/mmtfx/build/resources/main/fxml/FXMLAdmin.fxml:24
+
+	at javafx.fxml/javafx.fxml.FXMLLoader.constructLoadException(FXMLLoader.java:2621)
+	at javafx.fxml/javafx.fxml.FXMLLoader.access$100(FXMLLoader.java:105)
+	at javafx.fxml/javafx.fxml.FXMLLoader$Element.resolvePrefixedValue(FXMLLoader.java:406)
+	at javafx.fxml/javafx.fxml.FXMLLoader$Element.processValue(FXMLLoader.java:370)
+	at javafx.fxml/javafx.fxml.FXMLLoader$Element.processPropertyAttribute(FXMLLoader.java:332)
+	at javafx.fxml/javafx.fxml.FXMLLoader$Element.processInstancePropertyAttributes(FXMLLoader.java:242)
+	at javafx.fxml/javafx.fxml.FXMLLoader$ValueElement.processStartElement(FXMLLoader.java:757)
+	at javafx.fxml/javafx.fxml.FXMLLoader.processStartElement(FXMLLoader.java:2722)
+	at javafx.fxml/javafx.fxml.FXMLLoader.loadImpl(FXMLLoader.java:2552)
+	at javafx.fxml/javafx.fxml.FXMLLoader.loadImpl(FXMLLoader.java:2466)
+	at javafx.fxml/javafx.fxml.FXMLLoader.load(FXMLLoader.java:2435)
+	at mmtfx.main/it.ma.mototrainerp.StageManager.init(StageManager.java:49)
+	at mmtfx.main/it.ma.mototrainerp.Mototrainer.start(Mototrainer.java:33)
+	at javafx.graphics/com.sun.javafx.application.LauncherImpl.lambda$launchApplication1$9(LauncherImpl.java:846)
+	at javafx.graphics/com.sun.javafx.application.PlatformImpl.lambda$runAndWait$12(PlatformImpl.java:455)
+	at javafx.graphics/com.sun.javafx.application.PlatformImpl.lambda$runLater$10(PlatformImpl.java:428)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at javafx.graphics/com.sun.javafx.application.PlatformImpl.lambda$runLater$11(PlatformImpl.java:427)
+	at javafx.graphics/com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:96)
+	at javafx.graphics/com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at javafx.graphics/com.sun.glass.ui.win.WinApplication.lambda$runLoop$3(WinApplication.java:174)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2019-04-23 13:09:37 INFO  Prop:169 - File properties:file:///C:/Users/maria/.mtfx/prop.xml
+2019-04-23 13:09:37 INFO  Prop:120 - Application directory->C:\Users\maria\Coding\gradle\mmtfx
+2019-04-23 13:09:37 INFO  Prop:121 - JAVA Version->11.0.2+9
+2019-04-23 13:09:37 INFO  Prop:122 - mtfx Version(*Manifest)->null
+2019-04-23 13:09:37 INFO  Prop:136 - C:\Users\maria\.mtfx exists or Conf$$ not found, skip files copy.
+2019-04-23 13:09:37 INFO  Prop:150 - Properties file correctly read.
+2019-04-23 13:09:37 INFO  Prop:153 - Properties initialized, now list them:
+2019-04-23 13:09:37 INFO  Prop:158 - ACCELERATORE_MIN=65534
+2019-04-23 13:09:37 INFO  Prop:158 - ACCELERATORE_MAX=0
+2019-04-23 13:09:37 INFO  Prop:158 - FRENO_POSTERIORE_MIN=65534
+2019-04-23 13:09:37 INFO  Prop:158 - FRENO_POSTERIORE_MAX=0
+2019-04-23 13:09:37 INFO  Prop:158 - FRENO_ANTERIORE_MIN=65534
+2019-04-23 13:09:37 INFO  Prop:158 - FRENO_ANTERIORE_MAX=0
+2019-04-23 13:09:37 INFO  Prop:158 - PASSWORD_ADMIN=****
+2019-04-23 13:09:37 INFO  Prop:158 - NUMERO_SCHERMO=0
+2019-04-23 13:09:38 DEBUG FXMLSetupController:129 - initialize()
+2019-04-23 13:09:38 DEBUG FXMLVideoController:91 - initialize()
+2019-04-23 13:09:39 DEBUG FXMLPostVideoController:32 - initialize()
+2019-04-23 13:09:39 ERROR StageManager:51 - 
+javafx.fxml.LoadException: Invalid resource: /styles/fxmladmin.css not found on the classpath
+/C:/Users/maria/Coding/gradle/mmtfx/build/resources/main/fxml/FXMLAdmin.fxml:24
+
+	at javafx.fxml/javafx.fxml.FXMLLoader.constructLoadException(FXMLLoader.java:2621)
+	at javafx.fxml/javafx.fxml.FXMLLoader.access$100(FXMLLoader.java:105)
+	at javafx.fxml/javafx.fxml.FXMLLoader$Element.resolvePrefixedValue(FXMLLoader.java:406)
+	at javafx.fxml/javafx.fxml.FXMLLoader$Element.processValue(FXMLLoader.java:370)
+	at javafx.fxml/javafx.fxml.FXMLLoader$Element.processPropertyAttribute(FXMLLoader.java:332)
+	at javafx.fxml/javafx.fxml.FXMLLoader$Element.processInstancePropertyAttributes(FXMLLoader.java:242)
+	at javafx.fxml/javafx.fxml.FXMLLoader$ValueElement.processStartElement(FXMLLoader.java:757)
+	at javafx.fxml/javafx.fxml.FXMLLoader.processStartElement(FXMLLoader.java:2722)
+	at javafx.fxml/javafx.fxml.FXMLLoader.loadImpl(FXMLLoader.java:2552)
+	at javafx.fxml/javafx.fxml.FXMLLoader.loadImpl(FXMLLoader.java:2466)
+	at javafx.fxml/javafx.fxml.FXMLLoader.load(FXMLLoader.java:2435)
+	at mmtfx.main/it.ma.mototrainerp.StageManager.init(StageManager.java:49)
+	at mmtfx.main/it.ma.mototrainerp.Mototrainer.start(Mototrainer.java:33)
+	at javafx.graphics/com.sun.javafx.application.LauncherImpl.lambda$launchApplication1$9(LauncherImpl.java:846)
+	at javafx.graphics/com.sun.javafx.application.PlatformImpl.lambda$runAndWait$12(PlatformImpl.java:455)
+	at javafx.graphics/com.sun.javafx.application.PlatformImpl.lambda$runLater$10(PlatformImpl.java:428)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at javafx.graphics/com.sun.javafx.application.PlatformImpl.lambda$runLater$11(PlatformImpl.java:427)
+	at javafx.graphics/com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:96)
+	at javafx.graphics/com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at javafx.graphics/com.sun.glass.ui.win.WinApplication.lambda$runLoop$3(WinApplication.java:174)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2019-04-23 13:10:08 INFO  Prop:169 - File properties:file:///C:/Users/maria/.mtfx/prop.xml
+2019-04-23 13:10:08 INFO  Prop:120 - Application directory->C:\Users\maria\Coding\gradle\mmtfx
+2019-04-23 13:10:08 INFO  Prop:121 - JAVA Version->11.0.2+9
+2019-04-23 13:10:08 INFO  Prop:122 - mtfx Version(*Manifest)->null
+2019-04-23 13:10:08 INFO  Prop:136 - C:\Users\maria\.mtfx exists or Conf$$ not found, skip files copy.
+2019-04-23 13:10:08 INFO  Prop:150 - Properties file correctly read.
+2019-04-23 13:10:08 INFO  Prop:153 - Properties initialized, now list them:
+2019-04-23 13:10:08 INFO  Prop:158 - ACCELERATORE_MIN=65534
+2019-04-23 13:10:08 INFO  Prop:158 - ACCELERATORE_MAX=0
+2019-04-23 13:10:08 INFO  Prop:158 - FRENO_POSTERIORE_MIN=65534
+2019-04-23 13:10:08 INFO  Prop:158 - FRENO_POSTERIORE_MAX=0
+2019-04-23 13:10:08 INFO  Prop:158 - FRENO_ANTERIORE_MIN=65534
+2019-04-23 13:10:08 INFO  Prop:158 - FRENO_ANTERIORE_MAX=0
+2019-04-23 13:10:08 INFO  Prop:158 - PASSWORD_ADMIN=****
+2019-04-23 13:10:08 INFO  Prop:158 - NUMERO_SCHERMO=0
+2019-04-23 13:10:09 DEBUG FXMLSetupController:129 - initialize()
+2019-04-23 13:10:09 DEBUG FXMLVideoController:91 - initialize()
+2019-04-23 13:10:09 DEBUG FXMLPostVideoController:32 - initialize()
+2019-04-23 13:10:09 ERROR StageManager:51 - 
+javafx.fxml.LoadException: Invalid resource: /styles/fxmladmin.css not found on the classpath
+/C:/Users/maria/Coding/gradle/mmtfx/build/resources/main/fxml/FXMLAdmin.fxml:24
+
+	at javafx.fxml/javafx.fxml.FXMLLoader.constructLoadException(FXMLLoader.java:2621)
+	at javafx.fxml/javafx.fxml.FXMLLoader.access$100(FXMLLoader.java:105)
+	at javafx.fxml/javafx.fxml.FXMLLoader$Element.resolvePrefixedValue(FXMLLoader.java:406)
+	at javafx.fxml/javafx.fxml.FXMLLoader$Element.processValue(FXMLLoader.java:370)
+	at javafx.fxml/javafx.fxml.FXMLLoader$Element.processPropertyAttribute(FXMLLoader.java:332)
+	at javafx.fxml/javafx.fxml.FXMLLoader$Element.processInstancePropertyAttributes(FXMLLoader.java:242)
+	at javafx.fxml/javafx.fxml.FXMLLoader$ValueElement.processStartElement(FXMLLoader.java:757)
+	at javafx.fxml/javafx.fxml.FXMLLoader.processStartElement(FXMLLoader.java:2722)
+	at javafx.fxml/javafx.fxml.FXMLLoader.loadImpl(FXMLLoader.java:2552)
+	at javafx.fxml/javafx.fxml.FXMLLoader.loadImpl(FXMLLoader.java:2466)
+	at javafx.fxml/javafx.fxml.FXMLLoader.load(FXMLLoader.java:2435)
+	at mmtfx.main/it.ma.mototrainerp.StageManager.init(StageManager.java:49)
+	at mmtfx.main/it.ma.mototrainerp.Mototrainer.start(Mototrainer.java:33)
+	at javafx.graphics/com.sun.javafx.application.LauncherImpl.lambda$launchApplication1$9(LauncherImpl.java:846)
+	at javafx.graphics/com.sun.javafx.application.PlatformImpl.lambda$runAndWait$12(PlatformImpl.java:455)
+	at javafx.graphics/com.sun.javafx.application.PlatformImpl.lambda$runLater$10(PlatformImpl.java:428)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at javafx.graphics/com.sun.javafx.application.PlatformImpl.lambda$runLater$11(PlatformImpl.java:427)
+	at javafx.graphics/com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:96)
+	at javafx.graphics/com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at javafx.graphics/com.sun.glass.ui.win.WinApplication.lambda$runLoop$3(WinApplication.java:174)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2019-04-23 13:10:32 INFO  Prop:169 - File properties:file:///C:/Users/maria/.mtfx/prop.xml
+2019-04-23 13:10:32 INFO  Prop:120 - Application directory->C:\Users\maria\Coding\gradle\mmtfx
+2019-04-23 13:10:32 INFO  Prop:121 - JAVA Version->11.0.2+9
+2019-04-23 13:10:32 INFO  Prop:122 - mtfx Version(*Manifest)->null
+2019-04-23 13:10:32 INFO  Prop:136 - C:\Users\maria\.mtfx exists or Conf$$ not found, skip files copy.
+2019-04-23 13:10:32 INFO  Prop:150 - Properties file correctly read.
+2019-04-23 13:10:32 INFO  Prop:153 - Properties initialized, now list them:
+2019-04-23 13:10:32 INFO  Prop:158 - ACCELERATORE_MIN=65534
+2019-04-23 13:10:32 INFO  Prop:158 - ACCELERATORE_MAX=0
+2019-04-23 13:10:32 INFO  Prop:158 - FRENO_POSTERIORE_MIN=65534
+2019-04-23 13:10:32 INFO  Prop:158 - FRENO_POSTERIORE_MAX=0
+2019-04-23 13:10:32 INFO  Prop:158 - FRENO_ANTERIORE_MIN=65534
+2019-04-23 13:10:32 INFO  Prop:158 - FRENO_ANTERIORE_MAX=0
+2019-04-23 13:10:32 INFO  Prop:158 - PASSWORD_ADMIN=****
+2019-04-23 13:10:32 INFO  Prop:158 - NUMERO_SCHERMO=0
+2019-04-23 13:10:33 DEBUG FXMLSetupController:129 - initialize()
+2019-04-23 13:10:33 DEBUG FXMLVideoController:91 - initialize()
+2019-04-23 13:10:34 DEBUG FXMLPostVideoController:32 - initialize()
+2019-04-23 13:10:34 ERROR StageManager:51 - 
+javafx.fxml.LoadException: Invalid resource: /styles/fxmladmin.css not found on the classpath
+/C:/Users/maria/Coding/gradle/mmtfx/build/resources/main/fxml/FXMLAdmin.fxml:24
+
+	at javafx.fxml/javafx.fxml.FXMLLoader.constructLoadException(FXMLLoader.java:2621)
+	at javafx.fxml/javafx.fxml.FXMLLoader.access$100(FXMLLoader.java:105)
+	at javafx.fxml/javafx.fxml.FXMLLoader$Element.resolvePrefixedValue(FXMLLoader.java:406)
+	at javafx.fxml/javafx.fxml.FXMLLoader$Element.processValue(FXMLLoader.java:370)
+	at javafx.fxml/javafx.fxml.FXMLLoader$Element.processPropertyAttribute(FXMLLoader.java:332)
+	at javafx.fxml/javafx.fxml.FXMLLoader$Element.processInstancePropertyAttributes(FXMLLoader.java:242)
+	at javafx.fxml/javafx.fxml.FXMLLoader$ValueElement.processStartElement(FXMLLoader.java:757)
+	at javafx.fxml/javafx.fxml.FXMLLoader.processStartElement(FXMLLoader.java:2722)
+	at javafx.fxml/javafx.fxml.FXMLLoader.loadImpl(FXMLLoader.java:2552)
+	at javafx.fxml/javafx.fxml.FXMLLoader.loadImpl(FXMLLoader.java:2466)
+	at javafx.fxml/javafx.fxml.FXMLLoader.load(FXMLLoader.java:2435)
+	at mmtfx.main/it.ma.mototrainerp.StageManager.init(StageManager.java:49)
+	at mmtfx.main/it.ma.mototrainerp.Mototrainer.start(Mototrainer.java:33)
+	at javafx.graphics/com.sun.javafx.application.LauncherImpl.lambda$launchApplication1$9(LauncherImpl.java:846)
+	at javafx.graphics/com.sun.javafx.application.PlatformImpl.lambda$runAndWait$12(PlatformImpl.java:455)
+	at javafx.graphics/com.sun.javafx.application.PlatformImpl.lambda$runLater$10(PlatformImpl.java:428)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at javafx.graphics/com.sun.javafx.application.PlatformImpl.lambda$runLater$11(PlatformImpl.java:427)
+	at javafx.graphics/com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:96)
+	at javafx.graphics/com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at javafx.graphics/com.sun.glass.ui.win.WinApplication.lambda$runLoop$3(WinApplication.java:174)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2019-04-23 13:13:06 INFO  Prop:169 - File properties:file:///C:/Users/maria/.mtfx/prop.xml
+2019-04-23 13:13:06 INFO  Prop:120 - Application directory->C:\Users\maria\Coding\gradle\mmtfx
+2019-04-23 13:13:06 INFO  Prop:121 - JAVA Version->11.0.2+9
+2019-04-23 13:13:06 INFO  Prop:122 - mtfx Version(*Manifest)->null
+2019-04-23 13:13:06 INFO  Prop:136 - C:\Users\maria\.mtfx exists or Conf$$ not found, skip files copy.
+2019-04-23 13:13:06 INFO  Prop:150 - Properties file correctly read.
+2019-04-23 13:13:06 INFO  Prop:153 - Properties initialized, now list them:
+2019-04-23 13:13:06 INFO  Prop:158 - ACCELERATORE_MIN=65534
+2019-04-23 13:13:06 INFO  Prop:158 - ACCELERATORE_MAX=0
+2019-04-23 13:13:06 INFO  Prop:158 - FRENO_POSTERIORE_MIN=65534
+2019-04-23 13:13:06 INFO  Prop:158 - FRENO_POSTERIORE_MAX=0
+2019-04-23 13:13:06 INFO  Prop:158 - FRENO_ANTERIORE_MIN=65534
+2019-04-23 13:13:06 INFO  Prop:158 - FRENO_ANTERIORE_MAX=0
+2019-04-23 13:13:06 INFO  Prop:158 - PASSWORD_ADMIN=****
+2019-04-23 13:13:06 INFO  Prop:158 - NUMERO_SCHERMO=0
+2019-04-23 13:13:07 DEBUG FXMLSetupController:129 - initialize()
+2019-04-23 13:13:07 DEBUG FXMLVideoController:91 - initialize()
+2019-04-23 13:13:07 DEBUG FXMLPostVideoController:32 - initialize()
+2019-04-23 13:13:07 ERROR StageManager:51 - 
+javafx.fxml.LoadException: Invalid resource: /styles/fxmladmin.css not found on the classpath
+/C:/Users/maria/Coding/gradle/mmtfx/build/resources/main/fxml/FXMLAdmin.fxml:24
+
+	at javafx.fxml/javafx.fxml.FXMLLoader.constructLoadException(FXMLLoader.java:2621)
+	at javafx.fxml/javafx.fxml.FXMLLoader.access$100(FXMLLoader.java:105)
+	at javafx.fxml/javafx.fxml.FXMLLoader$Element.resolvePrefixedValue(FXMLLoader.java:406)
+	at javafx.fxml/javafx.fxml.FXMLLoader$Element.processValue(FXMLLoader.java:370)
+	at javafx.fxml/javafx.fxml.FXMLLoader$Element.processPropertyAttribute(FXMLLoader.java:332)
+	at javafx.fxml/javafx.fxml.FXMLLoader$Element.processInstancePropertyAttributes(FXMLLoader.java:242)
+	at javafx.fxml/javafx.fxml.FXMLLoader$ValueElement.processStartElement(FXMLLoader.java:757)
+	at javafx.fxml/javafx.fxml.FXMLLoader.processStartElement(FXMLLoader.java:2722)
+	at javafx.fxml/javafx.fxml.FXMLLoader.loadImpl(FXMLLoader.java:2552)
+	at javafx.fxml/javafx.fxml.FXMLLoader.loadImpl(FXMLLoader.java:2466)
+	at javafx.fxml/javafx.fxml.FXMLLoader.load(FXMLLoader.java:2435)
+	at mmtfx.main/it.ma.mototrainerp.StageManager.init(StageManager.java:49)
+	at mmtfx.main/it.ma.mototrainerp.Mototrainer.start(Mototrainer.java:33)
+	at javafx.graphics/com.sun.javafx.application.LauncherImpl.lambda$launchApplication1$9(LauncherImpl.java:846)
+	at javafx.graphics/com.sun.javafx.application.PlatformImpl.lambda$runAndWait$12(PlatformImpl.java:455)
+	at javafx.graphics/com.sun.javafx.application.PlatformImpl.lambda$runLater$10(PlatformImpl.java:428)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at javafx.graphics/com.sun.javafx.application.PlatformImpl.lambda$runLater$11(PlatformImpl.java:427)
+	at javafx.graphics/com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:96)
+	at javafx.graphics/com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at javafx.graphics/com.sun.glass.ui.win.WinApplication.lambda$runLoop$3(WinApplication.java:174)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2019-04-23 13:13:54 INFO  Prop:169 - File properties:file:///C:/Users/maria/.mtfx/prop.xml
+2019-04-23 13:13:54 INFO  Prop:120 - Application directory->C:\Users\maria\Coding\gradle\mmtfx
+2019-04-23 13:13:54 INFO  Prop:121 - JAVA Version->11.0.2+9
+2019-04-23 13:13:54 INFO  Prop:122 - mtfx Version(*Manifest)->null
+2019-04-23 13:13:54 INFO  Prop:136 - C:\Users\maria\.mtfx exists or Conf$$ not found, skip files copy.
+2019-04-23 13:13:54 INFO  Prop:150 - Properties file correctly read.
+2019-04-23 13:13:54 INFO  Prop:153 - Properties initialized, now list them:
+2019-04-23 13:13:54 INFO  Prop:158 - ACCELERATORE_MIN=65534
+2019-04-23 13:13:54 INFO  Prop:158 - ACCELERATORE_MAX=0
+2019-04-23 13:13:54 INFO  Prop:158 - FRENO_POSTERIORE_MIN=65534
+2019-04-23 13:13:54 INFO  Prop:158 - FRENO_POSTERIORE_MAX=0
+2019-04-23 13:13:54 INFO  Prop:158 - FRENO_ANTERIORE_MIN=65534
+2019-04-23 13:13:54 INFO  Prop:158 - FRENO_ANTERIORE_MAX=0
+2019-04-23 13:13:54 INFO  Prop:158 - PASSWORD_ADMIN=****
+2019-04-23 13:13:54 INFO  Prop:158 - NUMERO_SCHERMO=0
+2019-04-23 13:13:55 DEBUG FXMLSetupController:129 - initialize()
+2019-04-23 13:13:55 DEBUG FXMLVideoController:91 - initialize()
+2019-04-23 13:13:55 DEBUG FXMLPostVideoController:32 - initialize()
+2019-04-23 13:13:55 ERROR StageManager:51 - 
+javafx.fxml.LoadException: Invalid resource: /styles/fxmladmin.css not found on the classpath
+/C:/Users/maria/Coding/gradle/mmtfx/build/resources/main/fxml/FXMLAdmin.fxml:24
+
+	at javafx.fxml/javafx.fxml.FXMLLoader.constructLoadException(FXMLLoader.java:2621)
+	at javafx.fxml/javafx.fxml.FXMLLoader.access$100(FXMLLoader.java:105)
+	at javafx.fxml/javafx.fxml.FXMLLoader$Element.resolvePrefixedValue(FXMLLoader.java:406)
+	at javafx.fxml/javafx.fxml.FXMLLoader$Element.processValue(FXMLLoader.java:370)
+	at javafx.fxml/javafx.fxml.FXMLLoader$Element.processPropertyAttribute(FXMLLoader.java:332)
+	at javafx.fxml/javafx.fxml.FXMLLoader$Element.processInstancePropertyAttributes(FXMLLoader.java:242)
+	at javafx.fxml/javafx.fxml.FXMLLoader$ValueElement.processStartElement(FXMLLoader.java:757)
+	at javafx.fxml/javafx.fxml.FXMLLoader.processStartElement(FXMLLoader.java:2722)
+	at javafx.fxml/javafx.fxml.FXMLLoader.loadImpl(FXMLLoader.java:2552)
+	at javafx.fxml/javafx.fxml.FXMLLoader.loadImpl(FXMLLoader.java:2466)
+	at javafx.fxml/javafx.fxml.FXMLLoader.load(FXMLLoader.java:2435)
+	at mmtfx.main/it.ma.mototrainerp.StageManager.init(StageManager.java:49)
+	at mmtfx.main/it.ma.mototrainerp.Mototrainer.start(Mototrainer.java:33)
+	at javafx.graphics/com.sun.javafx.application.LauncherImpl.lambda$launchApplication1$9(LauncherImpl.java:846)
+	at javafx.graphics/com.sun.javafx.application.PlatformImpl.lambda$runAndWait$12(PlatformImpl.java:455)
+	at javafx.graphics/com.sun.javafx.application.PlatformImpl.lambda$runLater$10(PlatformImpl.java:428)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at javafx.graphics/com.sun.javafx.application.PlatformImpl.lambda$runLater$11(PlatformImpl.java:427)
+	at javafx.graphics/com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:96)
+	at javafx.graphics/com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at javafx.graphics/com.sun.glass.ui.win.WinApplication.lambda$runLoop$3(WinApplication.java:174)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2019-04-23 13:14:12 INFO  Prop:169 - File properties:file:///C:/Users/maria/.mtfx/prop.xml
+2019-04-23 13:14:12 INFO  Prop:120 - Application directory->C:\Users\maria\Coding\gradle\mmtfx
+2019-04-23 13:14:12 INFO  Prop:121 - JAVA Version->11.0.2+9
+2019-04-23 13:14:12 INFO  Prop:122 - mtfx Version(*Manifest)->null
+2019-04-23 13:14:12 INFO  Prop:136 - C:\Users\maria\.mtfx exists or Conf$$ not found, skip files copy.
+2019-04-23 13:14:12 INFO  Prop:150 - Properties file correctly read.
+2019-04-23 13:14:12 INFO  Prop:153 - Properties initialized, now list them:
+2019-04-23 13:14:12 INFO  Prop:158 - ACCELERATORE_MIN=65534
+2019-04-23 13:14:12 INFO  Prop:158 - ACCELERATORE_MAX=0
+2019-04-23 13:14:12 INFO  Prop:158 - FRENO_POSTERIORE_MIN=65534
+2019-04-23 13:14:12 INFO  Prop:158 - FRENO_POSTERIORE_MAX=0
+2019-04-23 13:14:12 INFO  Prop:158 - FRENO_ANTERIORE_MIN=65534
+2019-04-23 13:14:12 INFO  Prop:158 - FRENO_ANTERIORE_MAX=0
+2019-04-23 13:14:12 INFO  Prop:158 - PASSWORD_ADMIN=****
+2019-04-23 13:14:12 INFO  Prop:158 - NUMERO_SCHERMO=0
+2019-04-23 13:14:13 DEBUG FXMLSetupController:129 - initialize()
+2019-04-23 13:14:13 DEBUG FXMLVideoController:91 - initialize()
+2019-04-23 13:14:14 DEBUG FXMLPostVideoController:32 - initialize()
+2019-04-23 13:14:14 DEBUG FXMLAdminController:86 - initialize()
+2019-04-23 13:14:14 DEBUG FXMLVideoController:101 - postInitialize()
+2019-04-23 13:14:14 DEBUG FXMLSetupController:181 - postInitialize()
+2019-04-23 13:17:25 INFO  Prop:169 - File properties:file:///C:/Users/maria/.mtfx/prop.xml
+2019-04-23 13:17:25 INFO  Prop:120 - Application directory->C:\Users\maria\Coding\gradle\mmtfx
+2019-04-23 13:17:25 INFO  Prop:121 - JAVA Version->11.0.2+9
+2019-04-23 13:17:25 INFO  Prop:122 - mtfx Version(*Manifest)->null
+2019-04-23 13:17:25 INFO  Prop:136 - C:\Users\maria\.mtfx exists or Conf$$ not found, skip files copy.
+2019-04-23 13:17:25 INFO  Prop:150 - Properties file correctly read.
+2019-04-23 13:17:25 INFO  Prop:153 - Properties initialized, now list them:
+2019-04-23 13:17:25 INFO  Prop:158 - ACCELERATORE_MIN=65534
+2019-04-23 13:17:25 INFO  Prop:158 - ACCELERATORE_MAX=0
+2019-04-23 13:17:25 INFO  Prop:158 - FRENO_POSTERIORE_MIN=65534
+2019-04-23 13:17:25 INFO  Prop:158 - FRENO_POSTERIORE_MAX=0
+2019-04-23 13:17:25 INFO  Prop:158 - FRENO_ANTERIORE_MIN=65534
+2019-04-23 13:17:25 INFO  Prop:158 - FRENO_ANTERIORE_MAX=0
+2019-04-23 13:17:25 INFO  Prop:158 - PASSWORD_ADMIN=****
+2019-04-23 13:17:25 INFO  Prop:158 - NUMERO_SCHERMO=0
+2019-04-23 13:17:26 DEBUG FXMLSetupController:129 - initialize()
+2019-04-23 13:17:26 DEBUG FXMLVideoController:91 - initialize()
+2019-04-23 13:17:26 DEBUG FXMLPostVideoController:32 - initialize()
+2019-04-23 13:17:26 DEBUG FXMLAdminController:86 - initialize()
+2019-04-23 13:17:26 DEBUG FXMLVideoController:101 - postInitialize()
+2019-04-23 13:17:26 DEBUG FXMLSetupController:181 - postInitialize()
+2019-04-23 13:17:41 DEBUG FXMLSetupController:248 - default
+2019-04-23 13:17:53 DEBUG FXMLSetupController:248 - fasullo(*)
+2019-04-23 13:17:53 DEBUG FXMLSetupController:264 - fasullo(*):doesn't have rank file associated.
+2019-04-23 13:17:55 DEBUG FXMLSetupController:248 - lol
+2019-04-23 13:17:55 DEBUG FXMLSetupController:264 - lol:doesn't have rank file associated.
+2019-04-23 13:17:59 INFO  ServerLuigi:90 - Create Server Luigi
+2019-04-23 13:17:59 INFO  ServerLuigi:45 - running():Connected.
+2019-04-23 13:17:59 INFO  VideoProcessing:135 - Ready playing:READY
+2019-04-23 13:18:03 INFO  VideoProcessing:99 - Start playing...:
+2019-04-23 13:18:06 INFO  VideoProcessing:119 - "End of media":1
+2019-04-23 13:18:06 INFO  VideoProcessing:104 - repeat:1
+2019-04-23 13:18:07 INFO  VideoProcessing:126 - Stopped
+2019-04-23 13:18:07 INFO  ServerLuigi:35 - ServerLuigi cancelled():Connecting cancelled.
+2019-04-23 13:18:10 DEBUG FXMLSetupController:248 - fasullo(*)
+2019-04-23 13:18:10 DEBUG FXMLSetupController:264 - fasullo(*):doesn't have rank file associated.
+2019-04-23 13:26:43 INFO  Prop:169 - File properties:file:///C:/Users/maria/.mtfx/prop.xml
+2019-04-23 13:26:43 INFO  Prop:120 - Application directory->C:\Users\maria\Coding\gradle\mmtfx
+2019-04-23 13:26:43 INFO  Prop:121 - JAVA Version->11.0.2+9
+2019-04-23 13:26:43 INFO  Prop:122 - mtfx Version(*Manifest)->null
+2019-04-23 13:26:43 INFO  Prop:136 - C:\Users\maria\.mtfx exists or Conf$$ not found, skip files copy.
+2019-04-23 13:26:43 INFO  Prop:150 - Properties file correctly read.
+2019-04-23 13:26:43 INFO  Prop:153 - Properties initialized, now list them:
+2019-04-23 13:26:43 INFO  Prop:158 - ACCELERATORE_MIN=65534
+2019-04-23 13:26:43 INFO  Prop:158 - ACCELERATORE_MAX=0
+2019-04-23 13:26:43 INFO  Prop:158 - FRENO_POSTERIORE_MIN=65534
+2019-04-23 13:26:43 INFO  Prop:158 - FRENO_POSTERIORE_MAX=0
+2019-04-23 13:26:43 INFO  Prop:158 - FRENO_ANTERIORE_MIN=65534
+2019-04-23 13:26:43 INFO  Prop:158 - FRENO_ANTERIORE_MAX=0
+2019-04-23 13:26:43 INFO  Prop:158 - PASSWORD_ADMIN=****
+2019-04-23 13:26:43 INFO  Prop:158 - NUMERO_SCHERMO=0
+2019-04-23 13:26:44 DEBUG FXMLSetupController:129 - initialize()
+2019-04-23 13:26:44 DEBUG FXMLVideoController:91 - initialize()
+2019-04-23 13:26:44 DEBUG FXMLPostVideoController:32 - initialize()
+2019-04-23 13:26:45 DEBUG FXMLAdminController:86 - initialize()
+2019-04-23 13:26:45 DEBUG FXMLVideoController:101 - postInitialize()
+2019-04-23 13:26:45 DEBUG FXMLSetupController:181 - postInitialize()
+2019-04-23 13:26:54 DEBUG FXMLSetupController:248 - lol
+2019-04-23 13:26:54 DEBUG FXMLSetupController:264 - lol:doesn't have rank file associated.
+2019-04-23 13:26:55 DEBUG FXMLSetupController:248 - fasullo(*)
+2019-04-23 13:26:55 DEBUG FXMLSetupController:264 - fasullo(*):doesn't have rank file associated.
+2019-04-23 13:26:56 DEBUG FXMLSetupController:248 - default
+2019-04-23 13:31:14 INFO  Prop:169 - File properties:file:///C:/Users/maria/.mtfx/prop.xml
+2019-04-23 13:31:14 INFO  Prop:120 - Application directory->C:\Users\maria\Coding\gradle\mmtfx
+2019-04-23 13:31:14 INFO  Prop:121 - JAVA Version->11.0.2+9
+2019-04-23 13:31:14 INFO  Prop:122 - mtfx Version(*Manifest)->null
+2019-04-23 13:31:14 INFO  Prop:136 - C:\Users\maria\.mtfx exists or Conf$$ not found, skip files copy.
+2019-04-23 13:31:14 INFO  Prop:150 - Properties file correctly read.
+2019-04-23 13:31:14 INFO  Prop:153 - Properties initialized, now list them:
+2019-04-23 13:31:14 INFO  Prop:158 - ACCELERATORE_MIN=65534
+2019-04-23 13:31:14 INFO  Prop:158 - ACCELERATORE_MAX=0
+2019-04-23 13:31:14 INFO  Prop:158 - FRENO_POSTERIORE_MIN=65534
+2019-04-23 13:31:14 INFO  Prop:158 - FRENO_POSTERIORE_MAX=0
+2019-04-23 13:31:14 INFO  Prop:158 - FRENO_ANTERIORE_MIN=65534
+2019-04-23 13:31:14 INFO  Prop:158 - FRENO_ANTERIORE_MAX=0
+2019-04-23 13:31:14 INFO  Prop:158 - PASSWORD_ADMIN=****
+2019-04-23 13:31:14 INFO  Prop:158 - NUMERO_SCHERMO=0
+2019-04-23 13:31:15 DEBUG FXMLSetupController:129 - initialize()
+2019-04-23 13:31:15 DEBUG FXMLVideoController:91 - initialize()
+2019-04-23 13:31:15 DEBUG FXMLPostVideoController:32 - initialize()
+2019-04-23 13:31:15 DEBUG FXMLAdminController:86 - initialize()
+2019-04-23 13:31:15 DEBUG FXMLVideoController:101 - postInitialize()
+2019-04-23 13:31:16 DEBUG FXMLSetupController:181 - postInitialize()
+2019-04-23 13:34:44 INFO  Prop:169 - File properties:file:///C:/Users/maria/.mtfx/prop.xml
+2019-04-23 13:34:44 INFO  Prop:120 - Application directory->C:\Users\maria\Coding\gradle\mmtfx
+2019-04-23 13:34:44 INFO  Prop:121 - JAVA Version->11.0.2+9
+2019-04-23 13:34:44 INFO  Prop:122 - mtfx Version(*Manifest)->null
+2019-04-23 13:34:44 INFO  Prop:136 - C:\Users\maria\.mtfx exists or Conf$$ not found, skip files copy.
+2019-04-23 13:34:44 INFO  Prop:150 - Properties file correctly read.
+2019-04-23 13:34:44 INFO  Prop:153 - Properties initialized, now list them:
+2019-04-23 13:34:44 INFO  Prop:158 - ACCELERATORE_MIN=65534
+2019-04-23 13:34:44 INFO  Prop:158 - ACCELERATORE_MAX=0
+2019-04-23 13:34:44 INFO  Prop:158 - FRENO_POSTERIORE_MIN=65534
+2019-04-23 13:34:44 INFO  Prop:158 - FRENO_POSTERIORE_MAX=0
+2019-04-23 13:34:44 INFO  Prop:158 - FRENO_ANTERIORE_MIN=65534
+2019-04-23 13:34:44 INFO  Prop:158 - FRENO_ANTERIORE_MAX=0
+2019-04-23 13:34:44 INFO  Prop:158 - PASSWORD_ADMIN=****
+2019-04-23 13:34:44 INFO  Prop:158 - NUMERO_SCHERMO=0
+2019-04-23 13:34:45 DEBUG FXMLSetupController:129 - initialize()
+2019-04-23 13:34:45 DEBUG FXMLVideoController:91 - initialize()
+2019-04-23 13:34:45 DEBUG FXMLPostVideoController:32 - initialize()
+2019-04-23 13:34:46 DEBUG FXMLAdminController:86 - initialize()
+2019-04-23 13:34:46 DEBUG FXMLVideoController:101 - postInitialize()
+2019-04-23 13:34:46 DEBUG FXMLSetupController:181 - postInitialize()
+2019-04-23 13:37:27 INFO  Prop:169 - File properties:file:///C:/Users/maria/.mtfx/prop.xml
+2019-04-23 13:37:27 INFO  Prop:120 - Application directory->C:\Users\maria\Coding\gradle\mmtfx
+2019-04-23 13:37:27 INFO  Prop:121 - JAVA Version->11.0.2+9
+2019-04-23 13:37:27 INFO  Prop:122 - mtfx Version(*Manifest)->null
+2019-04-23 13:37:27 INFO  Prop:136 - C:\Users\maria\.mtfx exists or Conf$$ not found, skip files copy.
+2019-04-23 13:37:27 INFO  Prop:150 - Properties file correctly read.
+2019-04-23 13:37:27 INFO  Prop:153 - Properties initialized, now list them:
+2019-04-23 13:37:27 INFO  Prop:158 - ACCELERATORE_MIN=65534
+2019-04-23 13:37:27 INFO  Prop:158 - ACCELERATORE_MAX=0
+2019-04-23 13:37:27 INFO  Prop:158 - FRENO_POSTERIORE_MIN=65534
+2019-04-23 13:37:27 INFO  Prop:158 - FRENO_POSTERIORE_MAX=0
+2019-04-23 13:37:27 INFO  Prop:158 - FRENO_ANTERIORE_MIN=65534
+2019-04-23 13:37:27 INFO  Prop:158 - FRENO_ANTERIORE_MAX=0
+2019-04-23 13:37:27 INFO  Prop:158 - PASSWORD_ADMIN=****
+2019-04-23 13:37:27 INFO  Prop:158 - NUMERO_SCHERMO=0
+2019-04-23 13:37:28 DEBUG FXMLSetupController:129 - initialize()
+2019-04-23 13:37:28 DEBUG FXMLVideoController:91 - initialize()
+2019-04-23 13:37:28 DEBUG FXMLPostVideoController:32 - initialize()
+2019-04-23 13:37:29 DEBUG FXMLAdminController:86 - initialize()
+2019-04-23 13:37:29 DEBUG FXMLVideoController:101 - postInitialize()
+2019-04-23 13:37:29 DEBUG FXMLSetupController:181 - postInitialize()
+2019-04-23 13:37:38 DEBUG FXMLSetupController:248 - default
+2019-04-23 13:37:39 DEBUG FXMLSetupController:248 - fasullo(*)
+2019-04-23 13:37:39 DEBUG FXMLSetupController:264 - fasullo(*):doesn't have rank file associated.
+2019-04-23 13:37:39 DEBUG FXMLSetupController:248 - lol
+2019-04-23 13:37:39 DEBUG FXMLSetupController:264 - lol:doesn't have rank file associated.
+2019-04-23 13:37:48 INFO  ServerLuigi:90 - Create Server Luigi
+2019-04-23 13:37:48 INFO  ServerLuigi:45 - running():Connected.
+2019-04-23 13:37:49 INFO  VideoProcessing:135 - Ready playing:READY
+2019-04-23 13:37:52 INFO  VideoProcessing:99 - Start playing...:
+2019-04-23 13:37:54 INFO  VideoProcessing:126 - Stopped
+2019-04-23 13:37:54 INFO  ServerLuigi:35 - ServerLuigi cancelled():Connecting cancelled.
+2019-04-23 13:38:04 DEBUG FXMLSetupController:248 - fasullo(*)
+2019-04-23 13:38:04 DEBUG FXMLSetupController:264 - fasullo(*):doesn't have rank file associated.
+2019-04-23 13:38:04 DEBUG FXMLSetupController:248 - default
