@@ -1152,3 +1152,99 @@ javafx.fxml.LoadException: Invalid resource: /styles/fxmladmin.css not found on 
 2019-04-23 13:38:04 DEBUG FXMLSetupController:248 - fasullo(*)
 2019-04-23 13:38:04 DEBUG FXMLSetupController:264 - fasullo(*):doesn't have rank file associated.
 2019-04-23 13:38:04 DEBUG FXMLSetupController:248 - default
+2019-04-23 19:54:30 INFO  Prop:169 - File properties:file:///C:/Users/maria/.mtfx/prop.xml
+2019-04-23 19:54:30 INFO  Prop:120 - Application directory->C:\Users\maria\Coding\gradle\mmtfx
+2019-04-23 19:54:30 INFO  Prop:121 - JAVA Version->11.0.2+9
+2019-04-23 19:54:30 INFO  Prop:122 - mtfx Version(*Manifest)->null
+2019-04-23 19:54:30 INFO  Prop:136 - C:\Users\maria\.mtfx exists or Conf$$ not found, skip files copy.
+2019-04-23 19:54:30 INFO  Prop:150 - Properties file correctly read.
+2019-04-23 19:54:30 INFO  Prop:153 - Properties initialized, now list them:
+2019-04-23 19:54:30 INFO  Prop:158 - ACCELERATORE_MIN=65534
+2019-04-23 19:54:30 INFO  Prop:158 - ACCELERATORE_MAX=0
+2019-04-23 19:54:30 INFO  Prop:158 - FRENO_POSTERIORE_MIN=65534
+2019-04-23 19:54:30 INFO  Prop:158 - FRENO_POSTERIORE_MAX=0
+2019-04-23 19:54:30 INFO  Prop:158 - FRENO_ANTERIORE_MIN=65534
+2019-04-23 19:54:30 INFO  Prop:158 - FRENO_ANTERIORE_MAX=0
+2019-04-23 19:54:30 INFO  Prop:158 - PASSWORD_ADMIN=****
+2019-04-23 19:54:30 INFO  Prop:158 - NUMERO_SCHERMO=0
+2019-04-23 19:54:31 DEBUG FXMLSetupController:129 - initialize()
+2019-04-23 19:54:31 DEBUG FXMLVideoController:91 - initialize()
+2019-04-23 19:54:31 DEBUG FXMLPostVideoController:32 - initialize()
+2019-04-23 19:54:32 DEBUG FXMLAdminController:86 - initialize()
+2019-04-23 19:54:32 DEBUG FXMLVideoController:101 - postInitialize()
+2019-04-23 19:54:32 DEBUG FXMLSetupController:181 - postInitialize()
+2019-04-23 19:55:36 INFO  Prop:169 - File properties:file:///C:/Users/maria/.mtfx/prop.xml
+2019-04-23 19:55:36 INFO  Prop:120 - Application directory->C:\Users\maria\Coding\gradle\mmtfx
+2019-04-23 19:55:36 INFO  Prop:121 - JAVA Version->11.0.2+9
+2019-04-23 19:55:36 INFO  Prop:122 - mtfx Version(*Manifest)->null
+2019-04-23 19:55:36 INFO  Prop:128 - Create C:\Users\maria\.mtfx Directory
+2019-04-23 19:55:36 INFO  Prop:129 - Conf$$
+2019-04-23 19:55:36 INFO  Prop:129 - Conf$$\background-img.png
+2019-04-23 19:55:36 INFO  Prop:129 - Conf$$\circuiti
+2019-04-23 19:55:36 INFO  Prop:129 - Conf$$\circuiti\default.mp4
+2019-04-23 19:55:36 INFO  Prop:129 - Conf$$\circuiti\fasullo.MP4
+2019-04-23 19:55:36 INFO  Prop:129 - Conf$$\circuiti\fasullo.mtk
+2019-04-23 19:55:36 INFO  Prop:129 - Conf$$\circuiti\lol.mp4
+2019-04-23 19:55:36 INFO  Prop:129 - Conf$$\clips
+2019-04-23 19:55:36 INFO  Prop:129 - Conf$$\clips\clip1.mp4
+2019-04-23 19:55:36 INFO  Prop:129 - Conf$$\logo_CYg_icon.ico
+2019-04-23 19:55:36 INFO  Prop:129 - Conf$$\mototrainer.bat
+2019-04-23 19:55:36 INFO  Prop:129 - Conf$$\prop.xml
+2019-04-23 19:55:36 INFO  Prop:129 - Conf$$\ranks
+2019-04-23 19:55:36 INFO  Prop:129 - Conf$$\ranks\default.rnk
+2019-04-23 19:55:36 INFO  Prop:129 - Conf$$\Tolleranze
+2019-04-23 19:55:36 INFO  Prop:129 - Conf$$\Tolleranze\tolerance.csv
+2019-04-23 19:55:36 INFO  Prop:129 - Conf$$\Tolleranze\Valori tolleranza errore guida.csv
+2019-04-23 19:55:36 INFO  Prop:150 - Properties file correctly read.
+2019-04-23 19:55:36 INFO  Prop:153 - Properties initialized, now list them:
+2019-04-23 19:55:36 INFO  Prop:158 - ACCELERATORE_MIN=65534
+2019-04-23 19:55:36 INFO  Prop:158 - ACCELERATORE_MAX=0
+2019-04-23 19:55:36 INFO  Prop:158 - FRENO_POSTERIORE_MIN=65534
+2019-04-23 19:55:36 INFO  Prop:158 - FRENO_POSTERIORE_MAX=0
+2019-04-23 19:55:36 INFO  Prop:158 - FRENO_ANTERIORE_MIN=65534
+2019-04-23 19:55:36 INFO  Prop:158 - FRENO_ANTERIORE_MAX=0
+2019-04-23 19:55:36 INFO  Prop:158 - PASSWORD_ADMIN=****
+2019-04-23 19:55:36 INFO  Prop:158 - NUMERO_SCHERMO=0
+2019-04-23 19:55:38 DEBUG FXMLSetupController:129 - initialize()
+2019-04-23 19:55:39 DEBUG FXMLVideoController:91 - initialize()
+2019-04-23 19:55:39 DEBUG FXMLPostVideoController:32 - initialize()
+2019-04-23 19:55:39 DEBUG FXMLAdminController:86 - initialize()
+2019-04-23 19:55:39 DEBUG FXMLVideoController:101 - postInitialize()
+2019-04-23 19:55:39 DEBUG FXMLSetupController:181 - postInitialize()
+2019-04-23 19:55:49 DEBUG FXMLSetupController:248 - lol
+2019-04-23 19:55:49 DEBUG FXMLSetupController:264 - lol:doesn't have rank file associated.
+2019-04-23 19:55:50 DEBUG FXMLSetupController:248 - default
+2019-04-23 19:55:51 DEBUG FXMLSetupController:248 - fasullo(*)
+2019-04-23 19:55:51 DEBUG FXMLSetupController:264 - fasullo(*):doesn't have rank file associated.
+2019-04-23 19:55:52 DEBUG FXMLSetupController:248 - lol
+2019-04-23 19:55:52 DEBUG FXMLSetupController:264 - lol:doesn't have rank file associated.
+2019-04-23 19:55:58 DEBUG FXMLSetupController:248 - default
+2019-04-23 19:55:59 INFO  ServerLuigi:90 - Create Server Luigi
+2019-04-23 19:55:59 INFO  ServerLuigi:45 - running():Connected.
+2019-04-23 19:56:00 INFO  VideoProcessing:135 - Ready playing:READY
+2019-04-23 19:56:38 INFO  Prop:169 - File properties:file:///C:/Users/maria/.mtfx/prop.xml
+2019-04-23 19:56:38 INFO  Prop:120 - Application directory->C:\Users\maria\Coding\gradle\mmtfx
+2019-04-23 19:56:38 INFO  Prop:121 - JAVA Version->11.0.2+9
+2019-04-23 19:56:38 INFO  Prop:122 - mtfx Version(*Manifest)->null
+2019-04-23 19:56:38 INFO  Prop:136 - C:\Users\maria\.mtfx exists or Conf$$ not found, skip files copy.
+2019-04-23 19:56:38 INFO  Prop:150 - Properties file correctly read.
+2019-04-23 19:56:38 INFO  Prop:153 - Properties initialized, now list them:
+2019-04-23 19:56:38 INFO  Prop:158 - ACCELERATORE_MIN=65534
+2019-04-23 19:56:38 INFO  Prop:158 - ACCELERATORE_MAX=0
+2019-04-23 19:56:38 INFO  Prop:158 - FRENO_POSTERIORE_MIN=65534
+2019-04-23 19:56:38 INFO  Prop:158 - FRENO_POSTERIORE_MAX=0
+2019-04-23 19:56:38 INFO  Prop:158 - FRENO_ANTERIORE_MIN=65534
+2019-04-23 19:56:38 INFO  Prop:158 - FRENO_ANTERIORE_MAX=0
+2019-04-23 19:56:38 INFO  Prop:158 - PASSWORD_ADMIN=****
+2019-04-23 19:56:38 INFO  Prop:158 - NUMERO_SCHERMO=1
+2019-04-23 19:56:39 DEBUG FXMLSetupController:129 - initialize()
+2019-04-23 19:56:40 DEBUG FXMLVideoController:91 - initialize()
+2019-04-23 19:56:40 DEBUG FXMLPostVideoController:32 - initialize()
+2019-04-23 19:56:40 DEBUG FXMLAdminController:86 - initialize()
+2019-04-23 19:56:40 DEBUG FXMLVideoController:101 - postInitialize()
+2019-04-23 19:56:40 DEBUG FXMLSetupController:181 - postInitialize()
+2019-04-23 19:56:55 DEBUG FXMLSetupController:248 - fasullo(*)
+2019-04-23 19:56:55 DEBUG FXMLSetupController:264 - fasullo(*):doesn't have rank file associated.
+2019-04-23 19:56:56 DEBUG FXMLSetupController:248 - lol
+2019-04-23 19:56:56 DEBUG FXMLSetupController:264 - lol:doesn't have rank file associated.
+2019-04-23 19:56:57 DEBUG FXMLSetupController:248 - default
