@@ -5,9 +5,14 @@ import javafx.stage.Stage;
 
 import static it.ma.mototrainerp.EStage.SETUP;
 import static it.ma.mototrainerp.EStage.VIDEO;
+import org.apache.commons.logging.Log;
+import org.apache.commons.logging.LogFactory;
 
 public class Mototrainer extends Application {
-
+//    static private Rs232_PureJavaComm RS232PureJavaComm;
+    static private Rs232JSerialComm rs232;
+    private final static Log LOGGER = LogFactory.getLog(Mototrainer.class);
+    
     @Override
     public void start(Stage stage) {
         Prop.getInstance().oneShotLoadProperties(); //*** LASCIARE in testa!!!
@@ -15,9 +20,8 @@ public class Mototrainer extends Application {
         /**
          * Caching...
          */
-        //This is never used, but need to be done at the beginning so can start the
-        //static block of class.
-        //    private static final Rs232 RS232 = new Rs232();
+//        RS232PureJavaComm = new Rs232_PureJavaComm();
+        rs232 = new Rs232JSerialComm();
         StageManager stageManager = new StageManager(Prop.Desc.NUMERO_SCHERMO.getValueInt()) {
             @Override
             public void postInit() {
@@ -30,10 +34,15 @@ public class Mototrainer extends Application {
 //                ((FXMLClipsController)StageManager.getController(CLIP)).postInitialize();
             }
         };
+        
+        //Provo ad aprire seriale
+//        LOGGER.info(RS232PureJavaComm.open()? "RS232PureJavaComm Opened!":"RS232PureJavaComm Error:Not opened!");
+        rs232.open();
+
         stageManager.init();
         StageManager.showStage(SETUP);
 
-//        Utility.msgDebug(RS232.open()? "RS232 Opened!":"RS232 Error:Not opened!");
+//        Utility.msgDebug(RS232PureJavaComm.open()? "RS232PureJavaComm Opened!":"RS232PureJavaComm Error:Not opened!");
 //        StageManager.showStage(SETUP);
 //        stage.addEventFilter(WindowEvent.WINDOW_CLOSE_REQUEST, (Event event) -> {
 //            //***Attento! un throw od un consume event, e si rischia di non uscire più...
@@ -47,6 +56,7 @@ public class Mototrainer extends Application {
     @Override
     public void stop() throws Exception {
         Prop.saveProperties();
+        rs232.close();
         super.stop(); //To change body of generated methods, choose Tools | Templates.
     }
 

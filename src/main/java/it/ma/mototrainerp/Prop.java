@@ -98,7 +98,7 @@ public class Prop {
             int num;
             try {
                 num = Integer.parseInt((String) PROP.getOrDefault(this.name(), this.defaultValue));
-            } catch (NumberFormatException ex) { //Se c'è un errore nel file prop, ritorna il default
+            } catch (NumberFormatException ex) { //Se c' un errore nel file prop, ritorna il default
                 return Integer.parseInt((this.defaultValue));
             }
             return num;

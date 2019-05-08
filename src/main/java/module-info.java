@@ -7,6 +7,8 @@ module mmtfx.main {
     requires org.apache.commons.codec;
     requires commons.logging;
     requires log4j;
+//    requires purejavacomm;
+    requires com.fazecast.jSerialComm;
     opens it.ma.mototrainerp to javafx.fxml;
 //    opens styles to javafx.fxml;
     exports it.ma.mototrainerp;

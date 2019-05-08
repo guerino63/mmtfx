@@ -1248,3 +1248,483 @@ javafx.fxml.LoadException: Invalid resource: /styles/fxmladmin.css not found on 
 2019-04-23 19:56:56 DEBUG FXMLSetupController:248 - lol
 2019-04-23 19:56:56 DEBUG FXMLSetupController:264 - lol:doesn't have rank file associated.
 2019-04-23 19:56:57 DEBUG FXMLSetupController:248 - default
+2019-04-25 16:05:55 INFO  Prop:169 - File properties:file:///C:/Users/maria/.mtfx/prop.xml
+2019-04-25 16:05:55 INFO  Prop:120 - Application directory->C:\Users\maria\Coding\gradle\mmtfx
+2019-04-25 16:05:55 INFO  Prop:121 - JAVA Version->11.0.2+9
+2019-04-25 16:05:55 INFO  Prop:122 - mtfx Version(*Manifest)->null
+2019-04-25 16:05:55 INFO  Prop:136 - C:\Users\maria\.mtfx exists or Conf$$ not found, skip files copy.
+2019-04-25 16:05:55 INFO  Prop:150 - Properties file correctly read.
+2019-04-25 16:05:55 INFO  Prop:153 - Properties initialized, now list them:
+2019-04-25 16:05:55 INFO  Prop:158 - ACCELERATORE_MIN=65534
+2019-04-25 16:05:55 INFO  Prop:158 - ACCELERATORE_MAX=0
+2019-04-25 16:05:55 INFO  Prop:158 - FRENO_POSTERIORE_MIN=65534
+2019-04-25 16:05:55 INFO  Prop:158 - FRENO_POSTERIORE_MAX=0
+2019-04-25 16:05:55 INFO  Prop:158 - FRENO_ANTERIORE_MIN=65534
+2019-04-25 16:05:55 INFO  Prop:158 - FRENO_ANTERIORE_MAX=0
+2019-04-25 16:05:55 INFO  Prop:158 - PASSWORD_ADMIN=****
+2019-04-25 16:05:55 INFO  Prop:158 - NUMERO_SCHERMO=1
+2019-04-25 16:05:57 DEBUG FXMLSetupController:129 - initialize()
+2019-04-25 16:05:57 DEBUG FXMLVideoController:91 - initialize()
+2019-04-25 16:05:57 DEBUG FXMLPostVideoController:32 - initialize()
+2019-04-25 16:05:58 DEBUG FXMLAdminController:86 - initialize()
+2019-04-25 16:05:58 DEBUG FXMLVideoController:101 - postInitialize()
+2019-04-25 16:05:58 DEBUG FXMLSetupController:181 - postInitialize()
+2019-04-30 10:38:21 INFO  Prop:169 - File properties:file:///C:/Users/maria/.mtfx/prop.xml
+2019-04-30 10:38:21 INFO  Prop:120 - Application directory->C:\Users\maria\Coding\gradle\mmtfx
+2019-04-30 10:38:21 INFO  Prop:121 - JAVA Version->11.0.2+9
+2019-04-30 10:38:21 INFO  Prop:122 - mtfx Version(*Manifest)->null
+2019-04-30 10:38:21 INFO  Prop:136 - C:\Users\maria\.mtfx exists or Conf$$ not found, skip files copy.
+2019-04-30 10:38:21 INFO  Prop:150 - Properties file correctly read.
+2019-04-30 10:38:21 INFO  Prop:153 - Properties initialized, now list them:
+2019-04-30 10:38:21 INFO  Prop:158 - ACCELERATORE_MIN=65534
+2019-04-30 10:38:21 INFO  Prop:158 - ACCELERATORE_MAX=0
+2019-04-30 10:38:21 INFO  Prop:158 - FRENO_POSTERIORE_MIN=65534
+2019-04-30 10:38:21 INFO  Prop:158 - FRENO_POSTERIORE_MAX=0
+2019-04-30 10:38:21 INFO  Prop:158 - FRENO_ANTERIORE_MIN=65534
+2019-04-30 10:38:21 INFO  Prop:158 - FRENO_ANTERIORE_MAX=0
+2019-04-30 10:38:21 INFO  Prop:158 - PASSWORD_ADMIN=****
+2019-04-30 10:38:21 INFO  Prop:158 - NUMERO_SCHERMO=1
+2019-04-30 10:38:22 DEBUG FXMLSetupController:129 - initialize()
+2019-04-30 10:38:22 DEBUG FXMLVideoController:91 - initialize()
+2019-04-30 10:38:22 DEBUG FXMLPostVideoController:32 - initialize()
+2019-04-30 10:38:22 DEBUG FXMLAdminController:86 - initialize()
+2019-04-30 10:38:23 DEBUG FXMLVideoController:101 - postInitialize()
+2019-04-30 10:38:23 DEBUG FXMLSetupController:181 - postInitialize()
+2019-05-04 20:36:04 INFO  Prop:169 - File properties:file:///C:/Users/maria/.mtfx/prop.xml
+2019-05-04 20:36:04 INFO  Prop:120 - Application directory->C:\Users\maria\Coding\gradle\mmtfx
+2019-05-04 20:36:04 INFO  Prop:121 - JAVA Version->11.0.2+9
+2019-05-04 20:36:04 INFO  Prop:122 - mtfx Version(*Manifest)->null
+2019-05-04 20:36:04 INFO  Prop:136 - C:\Users\maria\.mtfx exists or Conf$$ not found, skip files copy.
+2019-05-04 20:36:04 INFO  Prop:150 - Properties file correctly read.
+2019-05-04 20:36:04 INFO  Prop:153 - Properties initialized, now list them:
+2019-05-04 20:36:04 INFO  Prop:158 - ACCELERATORE_MIN=65534
+2019-05-04 20:36:04 INFO  Prop:158 - ACCELERATORE_MAX=0
+2019-05-04 20:36:04 INFO  Prop:158 - FRENO_POSTERIORE_MIN=65534
+2019-05-04 20:36:04 INFO  Prop:158 - FRENO_POSTERIORE_MAX=0
+2019-05-04 20:36:04 INFO  Prop:158 - FRENO_ANTERIORE_MIN=65534
+2019-05-04 20:36:04 INFO  Prop:158 - FRENO_ANTERIORE_MAX=0
+2019-05-04 20:36:04 INFO  Prop:158 - PASSWORD_ADMIN=****
+2019-05-04 20:36:04 INFO  Prop:158 - NUMERO_SCHERMO=0
+2019-05-04 20:36:05 DEBUG FXMLSetupController:129 - initialize()
+2019-05-04 20:36:05 DEBUG FXMLVideoController:91 - initialize()
+2019-05-04 20:36:05 DEBUG FXMLPostVideoController:32 - initialize()
+2019-05-04 20:36:06 DEBUG FXMLAdminController:86 - initialize()
+2019-05-04 20:36:06 DEBUG FXMLVideoController:101 - postInitialize()
+2019-05-04 20:36:06 DEBUG FXMLSetupController:181 - postInitialize()
+2019-05-05 16:34:33 INFO  Prop:169 - File properties:file:///C:/Users/maria/.mtfx/prop.xml
+2019-05-05 16:34:33 INFO  Prop:120 - Application directory->C:\Users\maria\Coding\gradle\mmtfx
+2019-05-05 16:34:33 INFO  Prop:121 - JAVA Version->11.0.2+9
+2019-05-05 16:34:33 INFO  Prop:122 - mtfx Version(*Manifest)->null
+2019-05-05 16:34:33 INFO  Prop:136 - C:\Users\maria\.mtfx exists or Conf$$ not found, skip files copy.
+2019-05-05 16:34:33 INFO  Prop:150 - Properties file correctly read.
+2019-05-05 16:34:33 INFO  Prop:153 - Properties initialized, now list them:
+2019-05-05 16:34:33 INFO  Prop:158 - ACCELERATORE_MIN=65534
+2019-05-05 16:34:33 INFO  Prop:158 - ACCELERATORE_MAX=0
+2019-05-05 16:34:33 INFO  Prop:158 - FRENO_POSTERIORE_MIN=65534
+2019-05-05 16:34:33 INFO  Prop:158 - FRENO_POSTERIORE_MAX=0
+2019-05-05 16:34:33 INFO  Prop:158 - FRENO_ANTERIORE_MIN=65534
+2019-05-05 16:34:33 INFO  Prop:158 - FRENO_ANTERIORE_MAX=0
+2019-05-05 16:34:33 INFO  Prop:158 - PASSWORD_ADMIN=****
+2019-05-05 16:34:33 INFO  Prop:158 - NUMERO_SCHERMO=0
+2019-05-05 16:34:34 DEBUG FXMLSetupController:129 - initialize()
+2019-05-05 16:34:35 DEBUG FXMLVideoController:91 - initialize()
+2019-05-05 16:34:35 DEBUG FXMLPostVideoController:32 - initialize()
+2019-05-05 16:34:35 DEBUG FXMLAdminController:86 - initialize()
+2019-05-05 16:34:35 DEBUG FXMLVideoController:101 - postInitialize()
+2019-05-05 16:34:35 DEBUG FXMLSetupController:181 - postInitialize()
+2019-05-05 16:34:42 DEBUG FXMLSetupController:248 - lol
+2019-05-05 16:34:42 DEBUG FXMLSetupController:264 - lol:doesn't have rank file associated.
+2019-05-05 16:34:43 INFO  ServerLuigi:90 - Create Server Luigi
+2019-05-05 16:34:43 INFO  ServerLuigi:45 - running():Connected.
+2019-05-05 16:34:43 INFO  VideoProcessing:135 - Ready playing:READY
+2019-05-05 16:34:47 INFO  VideoProcessing:99 - Start playing...:
+2019-05-05 16:34:49 INFO  VideoProcessing:126 - Stopped
+2019-05-05 16:34:49 INFO  ServerLuigi:35 - ServerLuigi cancelled():Connecting cancelled.
+2019-05-07 10:47:52 INFO  Prop:169 - File properties:file:///C:/Users/maria/.mtfx/prop.xml
+2019-05-07 10:47:52 INFO  Prop:120 - Application directory->C:\Users\maria\Coding\gradle\mmtfx
+2019-05-07 10:47:52 INFO  Prop:121 - JAVA Version->11.0.2+9
+2019-05-07 10:47:52 INFO  Prop:122 - mtfx Version(*Manifest)->null
+2019-05-07 10:47:52 INFO  Prop:136 - C:\Users\maria\.mtfx exists or Conf$$ not found, skip files copy.
+2019-05-07 10:47:52 INFO  Prop:150 - Properties file correctly read.
+2019-05-07 10:47:52 INFO  Prop:153 - Properties initialized, now list them:
+2019-05-07 10:47:52 INFO  Prop:158 - ACCELERATORE_MIN=65534
+2019-05-07 10:47:52 INFO  Prop:158 - ACCELERATORE_MAX=0
+2019-05-07 10:47:52 INFO  Prop:158 - FRENO_POSTERIORE_MIN=65534
+2019-05-07 10:47:52 INFO  Prop:158 - FRENO_POSTERIORE_MAX=0
+2019-05-07 10:47:52 INFO  Prop:158 - FRENO_ANTERIORE_MIN=65534
+2019-05-07 10:47:52 INFO  Prop:158 - FRENO_ANTERIORE_MAX=0
+2019-05-07 10:47:52 INFO  Prop:158 - PASSWORD_ADMIN=****
+2019-05-07 10:47:52 INFO  Prop:158 - NUMERO_SCHERMO=0
+2019-05-07 10:47:53 DEBUG FXMLSetupController:129 - initialize()
+2019-05-07 10:47:54 DEBUG FXMLVideoController:91 - initialize()
+2019-05-07 10:47:54 DEBUG FXMLPostVideoController:32 - initialize()
+2019-05-07 10:47:54 DEBUG FXMLAdminController:86 - initialize()
+2019-05-07 10:47:54 DEBUG FXMLVideoController:101 - postInitialize()
+2019-05-07 10:47:54 DEBUG FXMLSetupController:181 - postInitialize()
+2019-05-08 00:41:27 INFO  Prop:194 - start some test...
+2019-05-08 00:41:27 INFO  Prop:196 - ...Default values
+2019-05-08 00:41:27 INFO  Prop:199 - ACCELERATORE_MIN=65000
+2019-05-08 00:41:27 INFO  Prop:199 - ACCELERATORE_MAX=0
+2019-05-08 00:41:27 INFO  Prop:199 - FRENO_POSTERIORE_MIN=65000
+2019-05-08 00:41:27 INFO  Prop:199 - FRENO_POSTERIORE_MAX=0
+2019-05-08 00:41:27 INFO  Prop:199 - FRENO_ANTERIORE_MIN=65000
+2019-05-08 00:41:27 INFO  Prop:199 - FRENO_ANTERIORE_MAX=0
+2019-05-08 00:41:27 INFO  Prop:199 - PASSWORD_ADMIN=mototrainer
+2019-05-08 00:41:27 INFO  Prop:199 - NUMERO_SCHERMO=0
+2019-05-08 00:41:27 INFO  Prop:201 - ...rewrite the default values
+2019-05-08 00:41:27 INFO  Prop:205 - ACCELERATORE_MIN=0
+2019-05-08 00:41:27 INFO  Prop:205 - ACCELERATORE_MAX=1
+2019-05-08 00:41:27 INFO  Prop:205 - FRENO_POSTERIORE_MIN=2
+2019-05-08 00:41:27 INFO  Prop:205 - FRENO_POSTERIORE_MAX=3
+2019-05-08 00:41:27 INFO  Prop:205 - FRENO_ANTERIORE_MIN=4
+2019-05-08 00:41:27 INFO  Prop:205 - FRENO_ANTERIORE_MAX=5
+2019-05-08 00:41:27 INFO  Prop:205 - PASSWORD_ADMIN=6
+2019-05-08 00:41:27 INFO  Prop:205 - NUMERO_SCHERMO=7
+2019-05-08 00:42:15 INFO  Prop:169 - File properties:file:///C:/Users/maria/.mtfx/prop.xml
+2019-05-08 00:42:15 INFO  Prop:120 - Application directory->C:\Users\maria\Coding\gradle\mmtfx
+2019-05-08 00:42:15 INFO  Prop:121 - JAVA Version->11.0.2+9
+2019-05-08 00:42:15 INFO  Prop:122 - mtfx Version(*Manifest)->null
+2019-05-08 00:42:15 INFO  Prop:136 - C:\Users\maria\.mtfx exists or Conf$$ not found, skip files copy.
+2019-05-08 00:42:15 INFO  Prop:150 - Properties file correctly read.
+2019-05-08 00:42:15 INFO  Prop:153 - Properties initialized, now list them:
+2019-05-08 00:42:15 INFO  Prop:158 - ACCELERATORE_MIN=65534
+2019-05-08 00:42:15 INFO  Prop:158 - ACCELERATORE_MAX=0
+2019-05-08 00:42:15 INFO  Prop:158 - FRENO_POSTERIORE_MIN=65534
+2019-05-08 00:42:15 INFO  Prop:158 - FRENO_POSTERIORE_MAX=0
+2019-05-08 00:42:15 INFO  Prop:158 - FRENO_ANTERIORE_MIN=65534
+2019-05-08 00:42:15 INFO  Prop:158 - FRENO_ANTERIORE_MAX=0
+2019-05-08 00:42:15 INFO  Prop:158 - PASSWORD_ADMIN=****
+2019-05-08 00:42:15 INFO  Prop:158 - NUMERO_SCHERMO=0
+2019-05-08 00:42:16 DEBUG FXMLSetupController:129 - initialize()
+2019-05-08 00:42:16 DEBUG FXMLVideoController:91 - initialize()
+2019-05-08 00:42:16 DEBUG FXMLPostVideoController:32 - initialize()
+2019-05-08 00:42:16 DEBUG FXMLAdminController:86 - initialize()
+2019-05-08 00:42:16 DEBUG FXMLVideoController:101 - postInitialize()
+2019-05-08 00:42:17 DEBUG FXMLSetupController:181 - postInitialize()
+2019-05-08 00:42:26 DEBUG FXMLSetupController:248 - lol
+2019-05-08 00:42:26 DEBUG FXMLSetupController:264 - lol:doesn't have rank file associated.
+2019-05-08 00:42:28 INFO  ServerLuigi:90 - Create Server Luigi
+2019-05-08 00:42:28 INFO  ServerLuigi:45 - running():Connected.
+2019-05-08 00:42:28 INFO  VideoProcessing:135 - Ready playing:READY
+2019-05-08 00:42:32 INFO  VideoProcessing:99 - Start playing...:
+2019-05-08 00:42:32 INFO  VideoProcessing:126 - Stopped
+2019-05-08 00:42:32 INFO  ServerLuigi:35 - ServerLuigi cancelled():Connecting cancelled.
+2019-05-08 00:43:33 INFO  Prop:194 - start some test...
+2019-05-08 00:43:33 INFO  Prop:196 - ...Default values
+2019-05-08 00:43:33 INFO  Prop:199 - ACCELERATORE_MIN=65000
+2019-05-08 00:43:33 INFO  Prop:199 - ACCELERATORE_MAX=0
+2019-05-08 00:43:33 INFO  Prop:199 - FRENO_POSTERIORE_MIN=65000
+2019-05-08 00:43:33 INFO  Prop:199 - FRENO_POSTERIORE_MAX=0
+2019-05-08 00:43:33 INFO  Prop:199 - FRENO_ANTERIORE_MIN=65000
+2019-05-08 00:43:33 INFO  Prop:199 - FRENO_ANTERIORE_MAX=0
+2019-05-08 00:43:33 INFO  Prop:199 - PASSWORD_ADMIN=mototrainer
+2019-05-08 00:43:33 INFO  Prop:199 - NUMERO_SCHERMO=0
+2019-05-08 00:43:33 INFO  Prop:201 - ...rewrite the default values
+2019-05-08 00:43:33 INFO  Prop:205 - ACCELERATORE_MIN=0
+2019-05-08 00:43:33 INFO  Prop:205 - ACCELERATORE_MAX=1
+2019-05-08 00:43:33 INFO  Prop:205 - FRENO_POSTERIORE_MIN=2
+2019-05-08 00:43:33 INFO  Prop:205 - FRENO_POSTERIORE_MAX=3
+2019-05-08 00:43:33 INFO  Prop:205 - FRENO_ANTERIORE_MIN=4
+2019-05-08 00:43:33 INFO  Prop:205 - FRENO_ANTERIORE_MAX=5
+2019-05-08 00:43:33 INFO  Prop:205 - PASSWORD_ADMIN=6
+2019-05-08 00:43:33 INFO  Prop:205 - NUMERO_SCHERMO=7
+2019-05-08 11:48:00 INFO  Prop:169 - File properties:file:///C:/Users/maria/.mtfx/prop.xml
+2019-05-08 11:48:00 INFO  Prop:120 - Application directory->C:\Users\maria\Coding\gradle\mmtfx
+2019-05-08 11:48:00 INFO  Prop:121 - JAVA Version->11.0.2+9
+2019-05-08 11:48:00 INFO  Prop:122 - mtfx Version(*Manifest)->null
+2019-05-08 11:48:00 INFO  Prop:136 - C:\Users\maria\.mtfx exists or Conf$$ not found, skip files copy.
+2019-05-08 11:48:00 INFO  Prop:150 - Properties file correctly read.
+2019-05-08 11:48:00 INFO  Prop:153 - Properties initialized, now list them:
+2019-05-08 11:48:00 INFO  Prop:158 - ACCELERATORE_MIN=65534
+2019-05-08 11:48:00 INFO  Prop:158 - ACCELERATORE_MAX=0
+2019-05-08 11:48:00 INFO  Prop:158 - FRENO_POSTERIORE_MIN=65534
+2019-05-08 11:48:00 INFO  Prop:158 - FRENO_POSTERIORE_MAX=0
+2019-05-08 11:48:00 INFO  Prop:158 - FRENO_ANTERIORE_MIN=65534
+2019-05-08 11:48:00 INFO  Prop:158 - FRENO_ANTERIORE_MAX=0
+2019-05-08 11:48:00 INFO  Prop:158 - PASSWORD_ADMIN=****
+2019-05-08 11:48:00 INFO  Prop:158 - NUMERO_SCHERMO=0
+2019-05-08 11:48:01 DEBUG FXMLSetupController:129 - initialize()
+2019-05-08 11:48:01 DEBUG FXMLVideoController:91 - initialize()
+2019-05-08 11:48:01 DEBUG FXMLPostVideoController:32 - initialize()
+2019-05-08 11:48:02 DEBUG FXMLAdminController:86 - initialize()
+2019-05-08 11:48:02 DEBUG FXMLVideoController:101 - postInitialize()
+2019-05-08 11:48:02 DEBUG FXMLSetupController:181 - postInitialize()
+2019-05-08 11:48:11 DEBUG FXMLSetupController:248 - lol
+2019-05-08 11:48:11 DEBUG FXMLSetupController:264 - lol:doesn't have rank file associated.
+2019-05-08 11:48:12 INFO  ServerLuigi:90 - Create Server Luigi
+2019-05-08 11:48:12 INFO  ServerLuigi:45 - running():Connected.
+2019-05-08 11:48:12 INFO  VideoProcessing:135 - Ready playing:READY
+2019-05-08 11:49:42 DEBUG Prop:134 - PureJavaCommDemo test
+2019-05-08 11:52:46 INFO  Prop:169 - File properties:file:///C:/Users/maria/.mtfx/prop.xml
+2019-05-08 11:52:46 INFO  Prop:120 - Application directory->C:\Users\maria\Coding\gradle\mmtfx
+2019-05-08 11:52:46 INFO  Prop:121 - JAVA Version->11.0.2+9
+2019-05-08 11:52:46 INFO  Prop:122 - mtfx Version(*Manifest)->null
+2019-05-08 11:52:46 INFO  Prop:136 - C:\Users\maria\.mtfx exists or Conf$$ not found, skip files copy.
+2019-05-08 11:52:46 INFO  Prop:150 - Properties file correctly read.
+2019-05-08 11:52:46 INFO  Prop:153 - Properties initialized, now list them:
+2019-05-08 11:52:46 INFO  Prop:158 - ACCELERATORE_MIN=65534
+2019-05-08 11:52:46 INFO  Prop:158 - ACCELERATORE_MAX=0
+2019-05-08 11:52:46 INFO  Prop:158 - FRENO_POSTERIORE_MIN=65534
+2019-05-08 11:52:46 INFO  Prop:158 - FRENO_POSTERIORE_MAX=0
+2019-05-08 11:52:46 INFO  Prop:158 - FRENO_ANTERIORE_MIN=65534
+2019-05-08 11:52:46 INFO  Prop:158 - FRENO_ANTERIORE_MAX=0
+2019-05-08 11:52:46 INFO  Prop:158 - PASSWORD_ADMIN=****
+2019-05-08 11:52:46 INFO  Prop:158 - NUMERO_SCHERMO=0
+2019-05-08 11:52:47 INFO  Rs232:49 - COM port not found! exit...
+2019-05-08 11:52:47 INFO  Mototrainer:37 - RS232 Error:Not opened!
+2019-05-08 11:52:48 DEBUG FXMLSetupController:129 - initialize()
+2019-05-08 11:52:48 DEBUG FXMLVideoController:91 - initialize()
+2019-05-08 11:52:48 DEBUG FXMLPostVideoController:32 - initialize()
+2019-05-08 11:52:48 DEBUG FXMLAdminController:86 - initialize()
+2019-05-08 11:52:48 DEBUG FXMLVideoController:101 - postInitialize()
+2019-05-08 11:52:48 DEBUG FXMLSetupController:181 - postInitialize()
+2019-05-08 19:27:38 INFO  Prop:169 - File properties:file:///C:/Users/maria/.mtfx/prop.xml
+2019-05-08 19:27:38 INFO  Prop:120 - Application directory->C:\Users\maria\Coding\gradle\mmtfx
+2019-05-08 19:27:38 INFO  Prop:121 - JAVA Version->11.0.2+9
+2019-05-08 19:27:38 INFO  Prop:122 - mtfx Version(*Manifest)->null
+2019-05-08 19:27:38 INFO  Prop:136 - C:\Users\maria\.mtfx exists or Conf$$ not found, skip files copy.
+2019-05-08 19:27:38 INFO  Prop:150 - Properties file correctly read.
+2019-05-08 19:27:38 INFO  Prop:153 - Properties initialized, now list them:
+2019-05-08 19:27:38 INFO  Prop:158 - ACCELERATORE_MIN=65534
+2019-05-08 19:27:38 INFO  Prop:158 - ACCELERATORE_MAX=0
+2019-05-08 19:27:38 INFO  Prop:158 - FRENO_POSTERIORE_MIN=65534
+2019-05-08 19:27:38 INFO  Prop:158 - FRENO_POSTERIORE_MAX=0
+2019-05-08 19:27:38 INFO  Prop:158 - FRENO_ANTERIORE_MIN=65534
+2019-05-08 19:27:38 INFO  Prop:158 - FRENO_ANTERIORE_MAX=0
+2019-05-08 19:27:38 INFO  Prop:158 - PASSWORD_ADMIN=****
+2019-05-08 19:27:38 INFO  Prop:158 - NUMERO_SCHERMO=0
+2019-05-08 19:27:39 INFO  Rs232_PureJavaComm:49 - COM port not found! exit...
+2019-05-08 19:27:39 INFO  Mototrainer:37 - RS232PureJavaComm Error:Not opened!
+2019-05-08 19:27:40 DEBUG FXMLSetupController:129 - initialize()
+2019-05-08 19:27:40 DEBUG FXMLVideoController:91 - initialize()
+2019-05-08 19:27:40 DEBUG FXMLPostVideoController:32 - initialize()
+2019-05-08 19:27:40 DEBUG FXMLAdminController:86 - initialize()
+2019-05-08 19:27:40 DEBUG FXMLVideoController:101 - postInitialize()
+2019-05-08 19:27:40 DEBUG FXMLSetupController:181 - postInitialize()
+2019-05-08 21:12:29 INFO  Prop:169 - File properties:file:///C:/Users/maria/.mtfx/prop.xml
+2019-05-08 21:12:29 INFO  Prop:120 - Application directory->C:\Users\maria\Coding\gradle\mmtfx
+2019-05-08 21:12:29 INFO  Prop:121 - JAVA Version->11.0.2+9
+2019-05-08 21:12:29 INFO  Prop:122 - mtfx Version(*Manifest)->null
+2019-05-08 21:12:29 INFO  Prop:136 - C:\Users\maria\.mtfx exists or Conf$$ not found, skip files copy.
+2019-05-08 21:12:29 INFO  Prop:150 - Properties file correctly read.
+2019-05-08 21:12:29 INFO  Prop:153 - Properties initialized, now list them:
+2019-05-08 21:12:29 INFO  Prop:158 - ACCELERATORE_MIN=65534
+2019-05-08 21:12:29 INFO  Prop:158 - ACCELERATORE_MAX=0
+2019-05-08 21:12:29 INFO  Prop:158 - FRENO_POSTERIORE_MIN=65534
+2019-05-08 21:12:29 INFO  Prop:158 - FRENO_POSTERIORE_MAX=0
+2019-05-08 21:12:29 INFO  Prop:158 - FRENO_ANTERIORE_MIN=65534
+2019-05-08 21:12:29 INFO  Prop:158 - FRENO_ANTERIORE_MAX=0
+2019-05-08 21:12:29 INFO  Prop:158 - PASSWORD_ADMIN=****
+2019-05-08 21:12:29 INFO  Prop:158 - NUMERO_SCHERMO=0
+2019-05-08 21:15:05 INFO  Prop:169 - File properties:file:///C:/Users/maria/.mtfx/prop.xml
+2019-05-08 21:15:05 INFO  Prop:120 - Application directory->C:\Users\maria\Coding\gradle\mmtfx
+2019-05-08 21:15:05 INFO  Prop:121 - JAVA Version->11.0.2+9
+2019-05-08 21:15:05 INFO  Prop:122 - mtfx Version(*Manifest)->null
+2019-05-08 21:15:05 INFO  Prop:136 - C:\Users\maria\.mtfx exists or Conf$$ not found, skip files copy.
+2019-05-08 21:15:05 INFO  Prop:150 - Properties file correctly read.
+2019-05-08 21:15:05 INFO  Prop:153 - Properties initialized, now list them:
+2019-05-08 21:15:05 INFO  Prop:158 - ACCELERATORE_MIN=65534
+2019-05-08 21:15:05 INFO  Prop:158 - ACCELERATORE_MAX=0
+2019-05-08 21:15:05 INFO  Prop:158 - FRENO_POSTERIORE_MIN=65534
+2019-05-08 21:15:05 INFO  Prop:158 - FRENO_POSTERIORE_MAX=0
+2019-05-08 21:15:05 INFO  Prop:158 - FRENO_ANTERIORE_MIN=65534
+2019-05-08 21:15:05 INFO  Prop:158 - FRENO_ANTERIORE_MAX=0
+2019-05-08 21:15:05 INFO  Prop:158 - PASSWORD_ADMIN=****
+2019-05-08 21:15:05 INFO  Prop:158 - NUMERO_SCHERMO=0
+2019-05-08 21:56:23 INFO  Prop:169 - File properties:file:///C:/Users/maria/.mtfx/prop.xml
+2019-05-08 21:56:23 INFO  Prop:120 - Application directory->C:\Users\maria\Coding\gradle\mmtfx
+2019-05-08 21:56:23 INFO  Prop:121 - JAVA Version->11.0.2+9
+2019-05-08 21:56:23 INFO  Prop:122 - mtfx Version(*Manifest)->null
+2019-05-08 21:56:23 INFO  Prop:136 - C:\Users\maria\.mtfx exists or Conf$$ not found, skip files copy.
+2019-05-08 21:56:23 INFO  Prop:150 - Properties file correctly read.
+2019-05-08 21:56:23 INFO  Prop:153 - Properties initialized, now list them:
+2019-05-08 21:56:23 INFO  Prop:158 - ACCELERATORE_MIN=65534
+2019-05-08 21:56:23 INFO  Prop:158 - ACCELERATORE_MAX=0
+2019-05-08 21:56:23 INFO  Prop:158 - FRENO_POSTERIORE_MIN=65534
+2019-05-08 21:56:23 INFO  Prop:158 - FRENO_POSTERIORE_MAX=0
+2019-05-08 21:56:23 INFO  Prop:158 - FRENO_ANTERIORE_MIN=65534
+2019-05-08 21:56:23 INFO  Prop:158 - FRENO_ANTERIORE_MAX=0
+2019-05-08 21:56:23 INFO  Prop:158 - PASSWORD_ADMIN=****
+2019-05-08 21:56:23 INFO  Prop:158 - NUMERO_SCHERMO=0
+2019-05-08 21:56:23 ERROR Rs232JSerialComm:32 - Can't get RS232 ports description
+java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+	at mmtfx.main/it.ma.mototrainerp.Rs232JSerialComm.open(Rs232JSerialComm.java:30)
+	at mmtfx.main/it.ma.mototrainerp.Mototrainer.start(Mototrainer.java:40)
+	at javafx.graphics/com.sun.javafx.application.LauncherImpl.lambda$launchApplication1$9(LauncherImpl.java:846)
+	at javafx.graphics/com.sun.javafx.application.PlatformImpl.lambda$runAndWait$12(PlatformImpl.java:455)
+	at javafx.graphics/com.sun.javafx.application.PlatformImpl.lambda$runLater$10(PlatformImpl.java:428)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at javafx.graphics/com.sun.javafx.application.PlatformImpl.lambda$runLater$11(PlatformImpl.java:427)
+	at javafx.graphics/com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:96)
+	at javafx.graphics/com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at javafx.graphics/com.sun.glass.ui.win.WinApplication.lambda$runLoop$3(WinApplication.java:174)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2019-05-08 21:56:24 DEBUG FXMLSetupController:129 - initialize()
+2019-05-08 21:56:25 DEBUG FXMLVideoController:91 - initialize()
+2019-05-08 21:56:25 DEBUG FXMLPostVideoController:32 - initialize()
+2019-05-08 21:56:25 DEBUG FXMLAdminController:86 - initialize()
+2019-05-08 21:56:25 DEBUG FXMLVideoController:101 - postInitialize()
+2019-05-08 21:56:25 DEBUG FXMLSetupController:181 - postInitialize()
+2019-05-08 21:59:49 INFO  Prop:169 - File properties:file:///C:/Users/maria/.mtfx/prop.xml
+2019-05-08 21:59:49 INFO  Prop:120 - Application directory->C:\Users\maria\Coding\gradle\mmtfx
+2019-05-08 21:59:49 INFO  Prop:121 - JAVA Version->11.0.2+9
+2019-05-08 21:59:49 INFO  Prop:122 - mtfx Version(*Manifest)->null
+2019-05-08 21:59:49 INFO  Prop:136 - C:\Users\maria\.mtfx exists or Conf$$ not found, skip files copy.
+2019-05-08 21:59:49 INFO  Prop:150 - Properties file correctly read.
+2019-05-08 21:59:49 INFO  Prop:153 - Properties initialized, now list them:
+2019-05-08 21:59:49 INFO  Prop:158 - ACCELERATORE_MIN=65534
+2019-05-08 21:59:49 INFO  Prop:158 - ACCELERATORE_MAX=0
+2019-05-08 21:59:49 INFO  Prop:158 - FRENO_POSTERIORE_MIN=65534
+2019-05-08 21:59:49 INFO  Prop:158 - FRENO_POSTERIORE_MAX=0
+2019-05-08 21:59:49 INFO  Prop:158 - FRENO_ANTERIORE_MIN=65534
+2019-05-08 21:59:49 INFO  Prop:158 - FRENO_ANTERIORE_MAX=0
+2019-05-08 21:59:49 INFO  Prop:158 - PASSWORD_ADMIN=****
+2019-05-08 21:59:49 INFO  Prop:158 - NUMERO_SCHERMO=0
+2019-05-08 22:01:11 INFO  Prop:169 - File properties:file:///C:/Users/maria/.mtfx/prop.xml
+2019-05-08 22:01:11 INFO  Prop:120 - Application directory->C:\Users\maria\Coding\gradle\mmtfx
+2019-05-08 22:01:11 INFO  Prop:121 - JAVA Version->11.0.2+9
+2019-05-08 22:01:11 INFO  Prop:122 - mtfx Version(*Manifest)->null
+2019-05-08 22:01:11 INFO  Prop:136 - C:\Users\maria\.mtfx exists or Conf$$ not found, skip files copy.
+2019-05-08 22:01:11 INFO  Prop:150 - Properties file correctly read.
+2019-05-08 22:01:11 INFO  Prop:153 - Properties initialized, now list them:
+2019-05-08 22:01:11 INFO  Prop:158 - ACCELERATORE_MIN=65534
+2019-05-08 22:01:11 INFO  Prop:158 - ACCELERATORE_MAX=0
+2019-05-08 22:01:11 INFO  Prop:158 - FRENO_POSTERIORE_MIN=65534
+2019-05-08 22:01:11 INFO  Prop:158 - FRENO_POSTERIORE_MAX=0
+2019-05-08 22:01:11 INFO  Prop:158 - FRENO_ANTERIORE_MIN=65534
+2019-05-08 22:01:11 INFO  Prop:158 - FRENO_ANTERIORE_MAX=0
+2019-05-08 22:01:11 INFO  Prop:158 - PASSWORD_ADMIN=****
+2019-05-08 22:01:11 INFO  Prop:158 - NUMERO_SCHERMO=0
+2019-05-08 22:01:12 ERROR Rs232JSerialComm:32 - Can't get RS232 ports description
+java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+	at mmtfx.main/it.ma.mototrainerp.Rs232JSerialComm.open(Rs232JSerialComm.java:30)
+	at mmtfx.main/it.ma.mototrainerp.Mototrainer.start(Mototrainer.java:40)
+	at javafx.graphics/com.sun.javafx.application.LauncherImpl.lambda$launchApplication1$9(LauncherImpl.java:846)
+	at javafx.graphics/com.sun.javafx.application.PlatformImpl.lambda$runAndWait$12(PlatformImpl.java:455)
+	at javafx.graphics/com.sun.javafx.application.PlatformImpl.lambda$runLater$10(PlatformImpl.java:428)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at javafx.graphics/com.sun.javafx.application.PlatformImpl.lambda$runLater$11(PlatformImpl.java:427)
+	at javafx.graphics/com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:96)
+	at javafx.graphics/com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at javafx.graphics/com.sun.glass.ui.win.WinApplication.lambda$runLoop$3(WinApplication.java:174)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2019-05-08 22:01:13 DEBUG FXMLSetupController:129 - initialize()
+2019-05-08 22:01:13 DEBUG FXMLVideoController:91 - initialize()
+2019-05-08 22:01:13 DEBUG FXMLPostVideoController:32 - initialize()
+2019-05-08 22:01:13 DEBUG FXMLAdminController:86 - initialize()
+2019-05-08 22:01:13 DEBUG FXMLVideoController:101 - postInitialize()
+2019-05-08 22:01:13 DEBUG FXMLSetupController:181 - postInitialize()
+2019-05-08 22:02:16 DEBUG Rs232JSerialComm:50 - Close the RS232 Port
+2019-05-08 22:04:12 INFO  Prop:169 - File properties:file:///C:/Users/maria/.mtfx/prop.xml
+2019-05-08 22:04:12 INFO  Prop:120 - Application directory->C:\Users\maria\Coding\gradle\mmtfx
+2019-05-08 22:04:12 INFO  Prop:121 - JAVA Version->11.0.2+9
+2019-05-08 22:04:12 INFO  Prop:122 - mtfx Version(*Manifest)->null
+2019-05-08 22:04:12 INFO  Prop:136 - C:\Users\maria\.mtfx exists or Conf$$ not found, skip files copy.
+2019-05-08 22:04:12 INFO  Prop:150 - Properties file correctly read.
+2019-05-08 22:04:12 INFO  Prop:153 - Properties initialized, now list them:
+2019-05-08 22:04:12 INFO  Prop:158 - ACCELERATORE_MIN=65534
+2019-05-08 22:04:12 INFO  Prop:158 - ACCELERATORE_MAX=0
+2019-05-08 22:04:12 INFO  Prop:158 - FRENO_POSTERIORE_MIN=65534
+2019-05-08 22:04:12 INFO  Prop:158 - FRENO_POSTERIORE_MAX=0
+2019-05-08 22:04:12 INFO  Prop:158 - FRENO_ANTERIORE_MIN=65534
+2019-05-08 22:04:12 INFO  Prop:158 - FRENO_ANTERIORE_MAX=0
+2019-05-08 22:04:12 INFO  Prop:158 - PASSWORD_ADMIN=****
+2019-05-08 22:04:12 INFO  Prop:158 - NUMERO_SCHERMO=0
+2019-05-08 22:04:12 ERROR Rs232JSerialComm:32 - Can't get RS232 ports description
+java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+	at mmtfx.main/it.ma.mototrainerp.Rs232JSerialComm.open(Rs232JSerialComm.java:30)
+	at mmtfx.main/it.ma.mototrainerp.Mototrainer.start(Mototrainer.java:40)
+	at javafx.graphics/com.sun.javafx.application.LauncherImpl.lambda$launchApplication1$9(LauncherImpl.java:846)
+	at javafx.graphics/com.sun.javafx.application.PlatformImpl.lambda$runAndWait$12(PlatformImpl.java:455)
+	at javafx.graphics/com.sun.javafx.application.PlatformImpl.lambda$runLater$10(PlatformImpl.java:428)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at javafx.graphics/com.sun.javafx.application.PlatformImpl.lambda$runLater$11(PlatformImpl.java:427)
+	at javafx.graphics/com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:96)
+	at javafx.graphics/com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at javafx.graphics/com.sun.glass.ui.win.WinApplication.lambda$runLoop$3(WinApplication.java:174)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2019-05-08 22:04:13 DEBUG FXMLSetupController:129 - initialize()
+2019-05-08 22:04:13 DEBUG FXMLVideoController:91 - initialize()
+2019-05-08 22:04:13 DEBUG FXMLPostVideoController:32 - initialize()
+2019-05-08 22:04:14 DEBUG FXMLAdminController:86 - initialize()
+2019-05-08 22:04:14 DEBUG FXMLVideoController:101 - postInitialize()
+2019-05-08 22:04:14 DEBUG FXMLSetupController:181 - postInitialize()
+2019-05-08 22:04:20 DEBUG Rs232JSerialComm:50 - Even if is null...Close the RS232 Port
+2019-05-09 00:26:40 INFO  Prop:169 - File properties:file:///C:/Users/maria/.mtfx/prop.xml
+2019-05-09 00:26:40 INFO  Prop:120 - Application directory->C:\Users\maria\Coding\gradle\mmtfx
+2019-05-09 00:26:40 INFO  Prop:121 - JAVA Version->11.0.2+9
+2019-05-09 00:26:40 INFO  Prop:122 - mtfx Version(*Manifest)->null
+2019-05-09 00:26:40 INFO  Prop:136 - C:\Users\maria\.mtfx exists or Conf$$ not found, skip files copy.
+2019-05-09 00:26:40 INFO  Prop:150 - Properties file correctly read.
+2019-05-09 00:26:40 INFO  Prop:153 - Properties initialized, now list them:
+2019-05-09 00:26:40 INFO  Prop:158 - ACCELERATORE_MIN=65534
+2019-05-09 00:26:40 INFO  Prop:158 - ACCELERATORE_MAX=0
+2019-05-09 00:26:40 INFO  Prop:158 - FRENO_POSTERIORE_MIN=65534
+2019-05-09 00:26:40 INFO  Prop:158 - FRENO_POSTERIORE_MAX=0
+2019-05-09 00:26:40 INFO  Prop:158 - FRENO_ANTERIORE_MIN=65534
+2019-05-09 00:26:40 INFO  Prop:158 - FRENO_ANTERIORE_MAX=0
+2019-05-09 00:26:40 INFO  Prop:158 - PASSWORD_ADMIN=****
+2019-05-09 00:26:40 INFO  Prop:158 - NUMERO_SCHERMO=0
+2019-05-09 00:26:41 ERROR Rs232JSerialComm:32 - Can't get RS232 ports description
+java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+	at mmtfx.main/it.ma.mototrainerp.Rs232JSerialComm.open(Rs232JSerialComm.java:30)
+	at mmtfx.main/it.ma.mototrainerp.Mototrainer.start(Mototrainer.java:40)
+	at javafx.graphics/com.sun.javafx.application.LauncherImpl.lambda$launchApplication1$9(LauncherImpl.java:846)
+	at javafx.graphics/com.sun.javafx.application.PlatformImpl.lambda$runAndWait$12(PlatformImpl.java:455)
+	at javafx.graphics/com.sun.javafx.application.PlatformImpl.lambda$runLater$10(PlatformImpl.java:428)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at javafx.graphics/com.sun.javafx.application.PlatformImpl.lambda$runLater$11(PlatformImpl.java:427)
+	at javafx.graphics/com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:96)
+	at javafx.graphics/com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at javafx.graphics/com.sun.glass.ui.win.WinApplication.lambda$runLoop$3(WinApplication.java:174)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2019-05-09 00:26:42 DEBUG FXMLSetupController:129 - initialize()
+2019-05-09 00:26:42 DEBUG FXMLVideoController:91 - initialize()
+2019-05-09 00:26:43 DEBUG FXMLPostVideoController:32 - initialize()
+2019-05-09 00:26:43 DEBUG FXMLAdminController:86 - initialize()
+2019-05-09 00:26:43 DEBUG FXMLVideoController:101 - postInitialize()
+2019-05-09 00:26:43 DEBUG FXMLSetupController:181 - postInitialize()
+2019-05-09 00:26:55 DEBUG FXMLSetupController:248 - lol
+2019-05-09 00:26:55 DEBUG FXMLSetupController:264 - lol:doesn't have rank file associated.
+2019-05-09 00:26:56 INFO  ServerLuigi:90 - Create Server Luigi
+2019-05-09 00:26:57 INFO  ServerLuigi:45 - running():Connected.
+2019-05-09 00:26:57 INFO  VideoProcessing:135 - Ready playing:READY
+2019-05-09 00:27:00 INFO  VideoProcessing:99 - Start playing...:
+2019-05-09 00:27:01 INFO  VideoProcessing:126 - Stopped
+2019-05-09 00:27:01 INFO  ServerLuigi:35 - ServerLuigi cancelled():Connecting cancelled.
+2019-05-09 00:28:09 DEBUG Rs232JSerialComm:50 - Even if is null...Close the RS232 Port
+2019-05-09 00:30:04 INFO  Prop:169 - File properties:file:///C:/Users/maria/.mtfx/prop.xml
+2019-05-09 00:30:04 INFO  Prop:120 - Application directory->C:\Users\maria\Coding\gradle\mmtfx
+2019-05-09 00:30:04 INFO  Prop:121 - JAVA Version->11.0.2+9
+2019-05-09 00:30:04 INFO  Prop:122 - mtfx Version(*Manifest)->null
+2019-05-09 00:30:04 INFO  Prop:136 - C:\Users\maria\.mtfx exists or Conf$$ not found, skip files copy.
+2019-05-09 00:30:04 INFO  Prop:150 - Properties file correctly read.
+2019-05-09 00:30:04 INFO  Prop:153 - Properties initialized, now list them:
+2019-05-09 00:30:05 INFO  Prop:158 - ACCELERATORE_MIN=65534
+2019-05-09 00:30:05 INFO  Prop:158 - ACCELERATORE_MAX=0
+2019-05-09 00:30:05 INFO  Prop:158 - FRENO_POSTERIORE_MIN=65534
+2019-05-09 00:30:05 INFO  Prop:158 - FRENO_POSTERIORE_MAX=0
+2019-05-09 00:30:05 INFO  Prop:158 - FRENO_ANTERIORE_MIN=65534
+2019-05-09 00:30:05 INFO  Prop:158 - FRENO_ANTERIORE_MAX=0
+2019-05-09 00:30:05 INFO  Prop:158 - PASSWORD_ADMIN=****
+2019-05-09 00:30:05 INFO  Prop:158 - NUMERO_SCHERMO=0
+2019-05-09 00:30:05 ERROR Rs232JSerialComm:32 - Can't get RS232 ports description
+java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+	at mmtfx.main/it.ma.mototrainerp.Rs232JSerialComm.open(Rs232JSerialComm.java:30)
+	at mmtfx.main/it.ma.mototrainerp.Mototrainer.start(Mototrainer.java:40)
+	at javafx.graphics/com.sun.javafx.application.LauncherImpl.lambda$launchApplication1$9(LauncherImpl.java:846)
+	at javafx.graphics/com.sun.javafx.application.PlatformImpl.lambda$runAndWait$12(PlatformImpl.java:455)
+	at javafx.graphics/com.sun.javafx.application.PlatformImpl.lambda$runLater$10(PlatformImpl.java:428)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at javafx.graphics/com.sun.javafx.application.PlatformImpl.lambda$runLater$11(PlatformImpl.java:427)
+	at javafx.graphics/com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:96)
+	at javafx.graphics/com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at javafx.graphics/com.sun.glass.ui.win.WinApplication.lambda$runLoop$3(WinApplication.java:174)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2019-05-09 00:30:06 DEBUG FXMLSetupController:129 - initialize()
+2019-05-09 00:30:06 DEBUG FXMLVideoController:91 - initialize()
+2019-05-09 00:30:06 DEBUG FXMLPostVideoController:32 - initialize()
+2019-05-09 00:30:06 DEBUG FXMLAdminController:86 - initialize()
+2019-05-09 00:30:06 DEBUG FXMLVideoController:101 - postInitialize()
+2019-05-09 00:30:06 DEBUG FXMLSetupController:181 - postInitialize()
+2019-05-09 00:32:08 DEBUG Rs232JSerialComm:50 - Even if is null...Close the RS232 Port
